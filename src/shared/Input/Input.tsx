@@ -1,14 +1,20 @@
-import { useState } from "react";
+import { type InputHTMLAttributes, useState } from "react";
 import "./input.css";
 
-interface Props {
+interface Props extends InputHTMLAttributes<HTMLInputElement> {
   search: string;
   setSearch: (search: string) => void;
   popular: string[];
-  onSelect: (term: string) => void;
+  onSelected: (term: string) => void;
 }
 
-export const Input = ({ search, setSearch, popular, onSelect }: Props) => {
+export const Input = ({
+  search,
+  setSearch,
+  popular,
+  onSelected,
+  ...rest
+}: Props) => {
   const [isFocused, setIsFocused] = useState(false);
 
   return (
@@ -16,11 +22,11 @@ export const Input = ({ search, setSearch, popular, onSelect }: Props) => {
       <input
         className="input-field"
         type="text"
-        placeholder="Поиск"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         onFocus={() => setIsFocused(true)}
         onBlur={() => setIsFocused(false)}
+        {...rest}
       />
 
       {isFocused && (
@@ -38,7 +44,7 @@ export const Input = ({ search, setSearch, popular, onSelect }: Props) => {
                 className="bottom-sheet-item"
                 onMouseDown={() => {
                   setSearch(term);
-                  onSelect(term);
+                  onSelected(term);
                   setIsFocused(false);
                 }}
               >

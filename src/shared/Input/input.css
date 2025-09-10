@@ -1,14 +1,16 @@
 .input-wrapper {
     width: 100%;
+
 }
 
 .input-field {
     width: 100%;
-    padding: 12px 16px;
+    padding: 12px 16px 12px 44px;
     border: 1px solid #ccc;
-    border-radius: 8px;
+    border-radius: 30px;
     font-size: 15px;
     outline: none;
+
 }
 
 .input-field:focus {

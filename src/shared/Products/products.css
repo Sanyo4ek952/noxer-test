@@ -25,3 +25,16 @@
 .popular-search button:hover {
     background-color: #dcdcdc;
 }
+.search-bar {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+
+.search-bar .search-icon {
+    position: absolute;
+    left: 22px;
+    pointer-events: none;
+    color: #888;
+}

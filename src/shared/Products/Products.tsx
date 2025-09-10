@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { getProducts } from "../../api/products.ts";
 import type {
   Category,
+  PaginationType,
   Product,
   ProductsOnMAinResponseProps,
 } from "../../type/type.ts";
@@ -10,10 +11,12 @@ import { getPopularSearchTerms } from "../../utils/getPopularSearchTerms.ts";
 import { ProductsItems } from "./ProductsItems/ProductsItems.tsx";
 import SimpleSlider from "../SimpleSlider/SimpleSlider.tsx";
 import "./products.css";
-import { Button } from "../Button/Button.tsx";
+import { Pagination } from "../Pagination/Pagination.tsx";
+import { SearchIcon } from "../icons/SearchIcon.tsx";
 
 export const Products = () => {
   const [products, setProducts] = useState<Product[]>([]);
+  const [pagination, setPagination] = useState<PaginationType>();
   const [loading, setLoading] = useState(false);
   const [page, setPage] = useState(1);
   const [search, setSearch] = useState("");
@@ -22,9 +25,12 @@ export const Products = () => {
   const [allCategories, setAllCategories] = useState<Category[]>();
 
   useEffect(() => {
-    getProducts({ on_main: true }).then((res: ProductsOnMAinResponseProps) =>
-      setAllCategories(res.categories)
-    );
+    getProducts({ on_main: true }).then((res: ProductsOnMAinResponseProps) => {
+      setAllCategories(res.categories);
+    });
+    getProducts().then((res: ProductsOnMAinResponseProps) => {
+      setPagination(res.pagination);
+    });
   }, []);
 
   useEffect(() => {
@@ -51,42 +57,31 @@ export const Products = () => {
   useEffect(() => {
     setPopular(getPopularSearchTerms(products, 5));
   }, [products, setPopular]);
-  const handleNextPage = () => {
-    setPage((prev: number) => {
-      if (prev === 0) {
-        return 1;
-      } else {
-        return prev + 1;
-      }
-    });
-  };
-  const handlePrevPage = () => {
-    setPage((prev: number) => {
-      if (prev === 0) {
-        return 1;
-      } else {
-        return prev - 1;
-      }
-    });
-  };
   return (
     <div className={"products-wrapper"}>
-      <Input
-        setSearch={setSearch}
-        search={search}
-        popular={popular}
-        onSelect={(term) => setSearch(term)}
-      />
-
+      <div className="search-bar">
+        <SearchIcon className="search-icon" width={16} height={16} />
+        <Input
+          name="search"
+          placeholder={"Найти товары"}
+          setSearch={setSearch}
+          search={search}
+          popular={popular}
+          onSelected={(term) => setSearch(term)}
+        />
+      </div>
       <div className="slider">
         <SimpleSlider items={allCategories || []} />
       </div>
 
       <ProductsItems loading={loading} filteredProducts={filteredProducts} />
-      <div className="pagination">
-        <Button onClick={handlePrevPage}>Prev</Button>
-        <Button onClick={handleNextPage}>Next</Button>
-      </div>
+      {pagination && (
+        <Pagination
+          currentPage={page}
+          totalPages={pagination.total_pages}
+          onPageChange={setPage}
+        />
+      )}
     </div>
   );
 };

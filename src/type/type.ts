@@ -90,7 +90,7 @@ interface ParameterProduct {
   price: number;
   sort_order: number;
 }
-export interface Pagination {
+export interface PaginationType {
   current_page: number;
   has_next: boolean;
   has_prev: boolean;
@@ -99,7 +99,7 @@ export interface Pagination {
   total_products: number;
 }
 export interface ProductsResponseProps {
-  pagination: Pagination;
+  pagination: PaginationType;
   products: Product[];
   status: string;
 }
@@ -109,7 +109,7 @@ interface ProductMarks {
 }
 export interface ProductsOnMAinResponseProps {
   categories: Category[];
-  pagination: Pagination;
+  pagination: PaginationType;
   product_marks: ProductMarks[];
   products: Product[];
   status: string;
