@@ -1,5 +1,5 @@
 import type { Product } from "../../../type/type.ts";
-import "./ProductItem.css";
+import "./productItem.css";
 import { Button } from "../../Button/Button.tsx";
 interface Props {
   product: Product;
