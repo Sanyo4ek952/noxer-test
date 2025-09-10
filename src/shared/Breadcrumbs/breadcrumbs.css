@@ -1,0 +1,20 @@
+.popular-search {
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.popular-search button {
+    cursor: pointer;
+    padding: 4px 8px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    transition: background 0.2s;
+
+}
+
+.popular-search button:hover {
+    background-color: #dcdcdc;
+}

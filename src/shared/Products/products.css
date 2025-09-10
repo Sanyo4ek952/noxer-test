@@ -1,0 +1,27 @@
+.products-wrapper{
+}
+.popular-search {
+    margin-bottom: 16px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+}
+.search-item{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #fff;
+}
+.popular-search button {
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: background 0.2s;
+
+}
+
+.popular-search button:hover {
+    background-color: #dcdcdc;
+}

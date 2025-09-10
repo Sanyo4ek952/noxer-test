@@ -1,0 +1,19 @@
+.slick-slide {
+    cursor: pointer;
+    padding: 2px;
+}
+.slick-slide:hover{
+    transform: scale(1.05);
+}
+.slider {
+    padding-top: 20px;
+    font-size: 13px;
+
+}
+
+@media (max-width: 600px) {
+    .slider {
+        padding-top: 5px;
+
+    }
+}

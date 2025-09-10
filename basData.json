@@ -1,0 +1,3530 @@
+{
+  "categories": [
+    {
+      "Category_ID": 56,
+      "Category_Image": "",
+      "Category_Name": "срезка",
+      "sort_order": 40
+    },
+    {
+      "Category_ID": 57,
+      "Category_Image": "",
+      "Category_Name": "вазы",
+      "sort_order": 41
+    },
+    {
+      "Category_ID": 58,
+      "Category_Image": "",
+      "Category_Name": "пакеты",
+      "sort_order": 42
+    },
+    {
+      "Category_ID": 59,
+      "Category_Image": "",
+      "Category_Name": "комнатные растения",
+      "sort_order": 43
+    },
+    {
+      "Category_ID": 1,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+      "Category_Name": "Техника",
+      "sort_order": 37
+    },
+    {
+      "Category_ID": 2,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+      "Category_Name": "Одеждаы",
+      "sort_order": 56
+    },
+    {
+      "Category_ID": 3,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card3.png",
+      "Category_Name": "Кроссовки",
+      "sort_order": 57
+    },
+    {
+      "Category_ID": 4,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+      "Category_Name": "Сладости",
+      "sort_order": 58
+    },
+    {
+      "Category_ID": 5,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+      "Category_Name": "Наушники",
+      "sort_order": 59
+    },
+    {
+      "Category_ID": 19,
+      "Category_Image": "",
+      "Category_Name": "Часы",
+      "sort_order": 0
+    },
+    {
+      "Category_ID": 20,
+      "Category_Image": "",
+      "Category_Name": "Сумки",
+      "sort_order": 1
+    },
+    {
+      "Category_ID": 21,
+      "Category_Image": "",
+      "Category_Name": "Очки",
+      "sort_order": 2
+    },
+    {
+      "Category_ID": 22,
+      "Category_Image": "",
+      "Category_Name": "Одежда",
+      "sort_order": 3
+    },
+    {
+      "Category_ID": 23,
+      "Category_Image": "",
+      "Category_Name": "обувь",
+      "sort_order": 4
+    },
+    {
+      "Category_ID": 24,
+      "Category_Image": "",
+      "Category_Name": "кошельки",
+      "sort_order": 5
+    },
+    {
+      "Category_ID": 25,
+      "Category_Image": "",
+      "Category_Name": "парфюм",
+      "sort_order": 6
+    },
+    {
+      "Category_ID": 26,
+      "Category_Image": "",
+      "Category_Name": "гаджеты",
+      "sort_order": 7
+    },
+    {
+      "Category_ID": 29,
+      "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+      "Category_Name": "test category",
+      "sort_order": 60
+    },
+    {
+      "Category_ID": 30,
+      "Category_Image": "https://cdn.britannica.com/39/226539-050-D21D7721/Portrait-of-a-cat-with-whiskers-visible.jpg",
+      "Category_Name": "yellow wall",
+      "sort_order": 61
+    },
+    {
+      "Category_ID": 31,
+      "Category_Image": "",
+      "Category_Name": "Рюкзаки ",
+      "sort_order": 65
+    },
+    {
+      "Category_ID": 54,
+      "Category_Image": "https://snipp.ru/uploads/images/donut.png",
+      "Category_Name": "ТЕстовая категорий",
+      "sort_order": 38
+    },
+    {
+      "Category_ID": 55,
+      "Category_Image": "",
+      "Category_Name": "Упаковка расходники",
+      "sort_order": 39
+    },
+    {
+      "Category_ID": 60,
+      "Category_Image": "",
+      "Category_Name": "свечи",
+      "sort_order": 44
+    },
+    {
+      "Category_ID": 61,
+      "Category_Image": "",
+      "Category_Name": "воздушные шары",
+      "sort_order": 45
+    },
+    {
+      "Category_ID": 62,
+      "Category_Image": "",
+      "Category_Name": "Доп.товары под реализацию",
+      "sort_order": 46
+    },
+    {
+      "Category_ID": 63,
+      "Category_Image": "",
+      "Category_Name": "сухоцветы",
+      "sort_order": 47
+    },
+    {
+      "Category_ID": 64,
+      "Category_Image": "",
+      "Category_Name": "земля",
+      "sort_order": 48
+    },
+    {
+      "Category_ID": 65,
+      "Category_Image": "",
+      "Category_Name": "корзины",
+      "sort_order": 49
+    },
+    {
+      "Category_ID": 66,
+      "Category_Image": "",
+      "Category_Name": "кашпо",
+      "sort_order": 50
+    },
+    {
+      "Category_ID": 67,
+      "Category_Image": "",
+      "Category_Name": "Сайт на тильде",
+      "sort_order": 51
+    },
+    {
+      "Category_ID": 68,
+      "Category_Image": "",
+      "Category_Name": "открытки",
+      "sort_order": 52
+    },
+    {
+      "Category_ID": 69,
+      "Category_Image": "",
+      "Category_Name": "услуги",
+      "sort_order": 53
+    },
+    {
+      "Category_ID": 70,
+      "Category_Image": "",
+      "Category_Name": "сладкое",
+      "sort_order": 54
+    },
+    {
+      "Category_ID": 71,
+      "Category_Image": "",
+      "Category_Name": "Тест",
+      "sort_order": 55
+    },
+    {
+      "Category_ID": 73,
+      "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+      "Category_Name": "ТЕСТ",
+      "sort_order": 64
+    },
+    {
+      "Category_ID": 77,
+      "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+      "Category_Name": "=)",
+      "sort_order": 8
+    },
+    {
+      "Category_ID": 78,
+      "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+      "Category_Name": "ТЕСТ1",
+      "sort_order": 71
+    },
+    {
+      "Category_ID": 79,
+      "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+      "Category_Name": "ТЕСТ2",
+      "sort_order": 69
+    },
+    {
+      "Category_ID": 80,
+      "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+      "Category_Name": "ТЕСТ3",
+      "sort_order": 68
+    },
+    {
+      "Category_ID": 83,
+      "Category_Image": "",
+      "Category_Name": "Рюкзаки1 ",
+      "sort_order": 72
+    },
+    {
+      "Category_ID": 84,
+      "Category_Image": "",
+      "Category_Name": "тестик",
+      "sort_order": 66
+    },
+    {
+      "Category_ID": 85,
+      "Category_Image": "",
+      "Category_Name": "тестик1",
+      "sort_order": 73
+    },
+    {
+      "Category_ID": 86,
+      "Category_Image": "",
+      "Category_Name": "тестик2",
+      "sort_order": 63
+    },
+    {
+      "Category_ID": 87,
+      "Category_Image": "",
+      "Category_Name": "тестик3",
+      "sort_order": 62
+    },
+    {
+      "Category_ID": 89,
+      "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+      "Category_Name": "546",
+      "sort_order": 67
+    },
+    {
+      "Category_ID": 90,
+      "Category_Image": "",
+      "Category_Name": "тест",
+      "sort_order": 74
+    },
+    {
+      "Category_ID": 91,
+      "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+      "Category_Name": "ТЕСТ11",
+      "sort_order": 70
+    },
+    {
+      "Category_ID": 92,
+      "Category_Image": "",
+      "Category_Name": "ТЕСТ111",
+      "sort_order": 75
+    },
+    {
+      "Category_ID": 93,
+      "Category_Image": "",
+      "Category_Name": "YAMAL HERO",
+      "sort_order": 9
+    },
+    {
+      "Category_ID": 94,
+      "Category_Image": "",
+      "Category_Name": "Сертификаты",
+      "sort_order": 10
+    },
+    {
+      "Category_ID": 95,
+      "Category_Image": "",
+      "Category_Name": "Шапки, перчатки, кепки",
+      "sort_order": 11
+    },
+    {
+      "Category_ID": 96,
+      "Category_Image": "",
+      "Category_Name": "Цех Ноябрьск",
+      "sort_order": 12
+    },
+    {
+      "Category_ID": 97,
+      "Category_Image": "",
+      "Category_Name": "Штаны",
+      "sort_order": 13
+    },
+    {
+      "Category_ID": 98,
+      "Category_Image": "",
+      "Category_Name": "Футболки",
+      "sort_order": 14
+    },
+    {
+      "Category_ID": 99,
+      "Category_Image": "",
+      "Category_Name": "Унисекс",
+      "sort_order": 15
+    },
+    {
+      "Category_ID": 100,
+      "Category_Image": "",
+      "Category_Name": "Толстовки",
+      "sort_order": 16
+    },
+    {
+      "Category_ID": 101,
+      "Category_Image": "",
+      "Category_Name": "Значок, брелок, попсокет, наклейка",
+      "sort_order": 17
+    },
+    {
+      "Category_ID": 102,
+      "Category_Image": "",
+      "Category_Name": "Куртки",
+      "sort_order": 18
+    },
+    {
+      "Category_ID": 103,
+      "Category_Image": "",
+      "Category_Name": "Мужская обувь",
+      "sort_order": 19
+    },
+    {
+      "Category_ID": 104,
+      "Category_Image": "",
+      "Category_Name": "YamalSocket, брелки, кружки",
+      "sort_order": 20
+    },
+    {
+      "Category_ID": 105,
+      "Category_Image": "",
+      "Category_Name": "Баффы и маски",
+      "sort_order": 21
+    },
+    {
+      "Category_ID": 106,
+      "Category_Image": "",
+      "Category_Name": "Кепки, панамы, шапки",
+      "sort_order": 22
+    },
+    {
+      "Category_ID": 107,
+      "Category_Image": "",
+      "Category_Name": "Интерьер",
+      "sort_order": 23
+    },
+    {
+      "Category_ID": 108,
+      "Category_Image": "",
+      "Category_Name": "Конверты, сувенир",
+      "sort_order": 24
+    },
+    {
+      "Category_ID": 109,
+      "Category_Image": "",
+      "Category_Name": "Дерево, ножи",
+      "sort_order": 25
+    },
+    {
+      "Category_ID": 110,
+      "Category_Image": "",
+      "Category_Name": "ЯМАЛ 100",
+      "sort_order": 26
+    },
+    {
+      "Category_ID": 111,
+      "Category_Image": "",
+      "Category_Name": "Изделия из кожи",
+      "sort_order": 27
+    },
+    {
+      "Category_ID": 112,
+      "Category_Image": "",
+      "Category_Name": "Хоку",
+      "sort_order": 28
+    },
+    {
+      "Category_ID": 113,
+      "Category_Image": "",
+      "Category_Name": "Баффы, шарфы, перчатки",
+      "sort_order": 29
+    },
+    {
+      "Category_ID": 114,
+      "Category_Image": "",
+      "Category_Name": "Комиксы",
+      "sort_order": 30
+    },
+    {
+      "Category_ID": 115,
+      "Category_Image": "",
+      "Category_Name": "Мячи, шайбы",
+      "sort_order": 31
+    },
+    {
+      "Category_ID": 116,
+      "Category_Image": "",
+      "Category_Name": "Серебро",
+      "sort_order": 32
+    },
+    {
+      "Category_ID": 117,
+      "Category_Image": "",
+      "Category_Name": "Носки",
+      "sort_order": 33
+    },
+    {
+      "Category_ID": 118,
+      "Category_Image": "",
+      "Category_Name": "Лонгсливы",
+      "sort_order": 34
+    },
+    {
+      "Category_ID": 119,
+      "Category_Image": "",
+      "Category_Name": "Комплекты",
+      "sort_order": 35
+    },
+    {
+      "Category_ID": 120,
+      "Category_Image": "",
+      "Category_Name": "Кожа",
+      "sort_order": 36
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "has_next": false,
+    "has_prev": false,
+    "per_page": 20,
+    "total_pages": 1,
+    "total_products": 13
+  },
+  "product_marks": [
+    {
+      "Mark_ID": 1,
+      "Mark_Name": "sale"
+    },
+    {
+      "Mark_ID": 2,
+      "Mark_Name": "new"
+    },
+    {
+      "Mark_ID": 3,
+      "Mark_Name": "hit"
+    },
+    {
+      "Mark_ID": 5,
+      "Mark_Name": "premium"
+    },
+    {
+      "Mark_ID": 4,
+      "Mark_Name": "discount"
+    },
+    {
+      "Mark_ID": 6,
+      "Mark_Name": "hot"
+    }
+  ],
+  "products": [
+    {
+      "Created_At": "Wed, 03 Sep 2025 09:04:43 GMT",
+      "OnMain": true,
+      "Product_ID": 2,
+      "Product_Name": "Футболка оверсайз женская",
+      "Updated_At": "Tue, 09 Sep 2025 15:08:30 GMT",
+      "categories": [
+        {
+          "Category_ID": 2,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+          "Category_Name": "Одеждаы",
+          "sort_order": 56
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#FF0000",
+          "Color_ID": 3,
+          "Color_Name": "Красный",
+          "Color_image": "",
+          "Product_ID": 2,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#3218f7",
+          "Color_ID": 230,
+          "Color_Name": "Синий",
+          "Color_image": "",
+          "Product_ID": 2,
+          "discount": 46,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 1
+        }
+      ],
+      "excluded": [],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите4",
+          "Delivery": "4",
+          "Kit": "Здесь будет находиться характеристика вашего товара такого размера, какого захотите4",
+          "Offer": "4",
+          "Product_Extra_ID": 2,
+          "Product_ID": 2,
+          "ai_description": "4"
+        },
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите4",
+          "Delivery": "4",
+          "Kit": "Здесь будет находиться характеристика вашего товара такого размера, какого захотите4",
+          "Offer": "4",
+          "Product_Extra_ID": 43,
+          "Product_ID": 2,
+          "ai_description": "4"
+        },
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите4",
+          "Delivery": "4",
+          "Kit": "Здесь будет находиться характеристика вашего товара такого размера, какого захотите4",
+          "Offer": "4",
+          "Product_Extra_ID": 44,
+          "Product_ID": 2,
+          "ai_description": "4"
+        }
+      ],
+      "from_crm": null,
+      "images": [
+        {
+          "Image_ID": 1048,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img2.jpg",
+          "MainImage": false,
+          "Product_ID": 2,
+          "position": "parameters",
+          "sort_order": 2,
+          "title": "Название"
+        },
+        {
+          "Image_ID": 2,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img2.jpg",
+          "MainImage": true,
+          "Product_ID": 2,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        },
+        {
+          "Image_ID": 23,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img2.jpg",
+          "MainImage": false,
+          "Product_ID": 2,
+          "position": "product",
+          "sort_order": 1,
+          "title": ""
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 7229,
+          "importance": 10,
+          "product_id": 2
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 1,
+          "Mark_Name": "sale"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 11,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://static-sda.ru/brandbot/tovars/img2.jpg",
+          "name": "Размер одежды",
+          "old_price": 999,
+          "parameter_json": {
+            "add_images": [
+              "https://noxer-test.ru/webapp/user_files/lw891_bmw.jpeg"
+            ]
+          },
+          "parameter_string": "XS (40-42)",
+          "price": 2,
+          "sort_order": 7
+        },
+        {
+          "Parameter_ID": 12,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://sublimagia.ru/image/cache/catalog/fut/5365-600x600.jpg",
+          "name": "Размер одежды",
+          "old_price": 100,
+          "parameter_json": {},
+          "parameter_string": "S (44)",
+          "price": 10,
+          "sort_order": 2
+        },
+        {
+          "Parameter_ID": 13,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGK4II03o0n_rGupsYyIpVBJ9qqFrGdxw_Jg&s",
+          "name": "Размер одежды",
+          "old_price": 765,
+          "parameter_json": {
+            "add_images": [
+              "https://noxer-test.ru/webapp/user_files/lw891_bmw.jpeg",
+              "https://noxer-test.ru/webapp/user_files/lw891_bmw.jpeg"
+            ]
+          },
+          "parameter_string": "M (46-48)",
+          "price": 3,
+          "sort_order": 3
+        },
+        {
+          "Parameter_ID": 14,
+          "chosen": false,
+          "disabled": true,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Размер одежды",
+          "old_price": 2500,
+          "parameter_json": {},
+          "parameter_string": "L (50)",
+          "price": 14,
+          "sort_order": 1
+        },
+        {
+          "Parameter_ID": 15,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Размер одежды",
+          "old_price": 2500,
+          "parameter_json": {},
+          "parameter_string": "XL (52-54)",
+          "price": 15,
+          "sort_order": 5
+        },
+        {
+          "Parameter_ID": 16,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Размер одежды",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "XXL (56)",
+          "price": 16,
+          "sort_order": 6
+        },
+        {
+          "Parameter_ID": 34,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "Чёрный",
+          "price": 999,
+          "sort_order": 0
+        },
+        {
+          "Parameter_ID": 35,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "Белый",
+          "price": 999,
+          "sort_order": 4
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 2,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 2,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 22,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/lw896_cadillac.jpeg",
+          "Product_ID": 2,
+          "sort_order": 0
+        },
+        {
+          "Photo_ID": 23,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/11.jpeg",
+          "Product_ID": 2,
+          "sort_order": 0
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 2,
+          "Video_ID": 1,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        },
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 2,
+          "Video_ID": 16,
+          "Video_URL": "https://noxer-test.ru/webapp/user_files/large.mp4",
+          "sort_order": 0
+        }
+      ],
+      "tags": [
+        "женская одежда\\noversize"
+      ]
+    },
+    {
+      "Created_At": "Mon, 10 Feb 2025 09:19:42 GMT",
+      "OnMain": true,
+      "Product_ID": 5,
+      "Product_Name": "Airpods Pro 2",
+      "Updated_At": "Thu, 08 May 2025 13:33:59 GMT",
+      "categories": [
+        {
+          "Category_ID": 5,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+          "Category_Name": "Наушники",
+          "sort_order": 59
+        }
+      ],
+      "colors": [],
+      "excluded": [],
+      "extra_json": null,
+      "extras": [
+        {
+          "Characteristics": "Вакуумные наушники с улучшенными характеристиками из линейки наушников самого высокого качества.\n- Режимы активного шумоподавления и прозрачности\n- Регулировка громкости сенсором наушника\n- 4 комплекта сменных амбушюр ХS, S, M, L (силиконовые насадки)\n- Динамик для поиска кейса\n- Звук стал чище и мощнее\n- Более емкие аккумуляторы, до 5 часов работы\n- Микрофоны более вы ского качества\n- 6 месяцев гарантии\n- Силиконовый чехол в подарок\n- Активное шумоподавление убирает внешний шум, обнаруживая внешние звуки микрофоном и подавляя их.",
+          "Delivery": "",
+          "Kit": "- Наушники\n- Гарантийный талон\n- Инструкция",
+          "Offer": "НАБОРОМ ОТ 4490 ₽",
+          "Product_Extra_ID": 5,
+          "Product_ID": 5,
+          "ai_description": null
+        }
+      ],
+      "from_crm": null,
+      "images": [
+        {
+          "Image_ID": 6,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro1.jpg",
+          "MainImage": true,
+          "Product_ID": 5,
+          "position": "",
+          "sort_order": null,
+          "title": ""
+        },
+        {
+          "Image_ID": 7,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro2.jpg",
+          "MainImage": false,
+          "Product_ID": 5,
+          "position": "",
+          "sort_order": null,
+          "title": ""
+        },
+        {
+          "Image_ID": 8,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro3.jpg",
+          "MainImage": false,
+          "Product_ID": 5,
+          "position": "",
+          "sort_order": null,
+          "title": ""
+        },
+        {
+          "Image_ID": 9,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro4.jpg",
+          "MainImage": false,
+          "Product_ID": 5,
+          "position": "",
+          "sort_order": null,
+          "title": ""
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 7222,
+          "importance": 6,
+          "product_id": 5
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 1,
+          "Mark_Name": "sale"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 25,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет чехла",
+          "old_price": 55,
+          "parameter_json": null,
+          "parameter_string": "Красный",
+          "price": 25,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 26,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет чехла",
+          "old_price": null,
+          "parameter_json": null,
+          "parameter_string": "Жёлтый",
+          "price": 26,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 27,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет чехла",
+          "old_price": null,
+          "parameter_json": null,
+          "parameter_string": "Чёрный",
+          "price": 27,
+          "sort_order": null
+        },
+        {
+          "Parameter_ID": 28,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет чехла",
+          "old_price": null,
+          "parameter_json": null,
+          "parameter_string": "Сиреневый",
+          "price": 28,
+          "sort_order": null
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 5,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv.jpg",
+          "Product_ID": 5,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 7,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv1.jpg",
+          "Product_ID": 5,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 8,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv2.jpg",
+          "Product_ID": 5,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "",
+          "Product_ID": 5,
+          "Video_ID": 5,
+          "Video_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/pro.mp4",
+          "sort_order": null
+        },
+        {
+          "Poster_URL": "",
+          "Product_ID": 5,
+          "Video_ID": 27,
+          "Video_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/pro.mp",
+          "sort_order": 0
+        },
+        {
+          "Poster_URL": "",
+          "Product_ID": 5,
+          "Video_ID": 28,
+          "Video_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/pro.mp4",
+          "sort_order": 1
+        }
+      ],
+      "tags": [
+        "наушники",
+        "белое"
+      ]
+    },
+    {
+      "Created_At": "Tue, 02 Sep 2025 06:28:28 GMT",
+      "OnMain": true,
+      "Product_ID": 1178,
+      "Product_Name": "Тест цветов",
+      "Updated_At": "Fri, 05 Sep 2025 07:28:32 GMT",
+      "categories": [
+        {
+          "Category_ID": 77,
+          "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+          "Category_Name": "=)",
+          "sort_order": 8
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 210,
+          "Color_Name": "па",
+          "Color_image": "https://noxer-test.ru/webapp/user_files/lw891_bmw.jpeg",
+          "Product_ID": 1178,
+          "discount": 0,
+          "json_data": {
+            "add_images": [
+              {
+                "image_name": "",
+                "image_url": "https://noxer-test.ru/webapp/user_files/22.jpg",
+                "sort_order": 0
+              }
+            ]
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 211,
+          "Color_Name": "авп",
+          "Color_image": "",
+          "Product_ID": 1178,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 1
+        }
+      ],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 242,
+          "parameter_id": 8442,
+          "product_id": 1178
+        }
+      ],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 25,
+          "Product_ID": 1178,
+          "ai_description": ""
+        }
+      ],
+      "from_crm": false,
+      "images": [
+        {
+          "Image_ID": 1030,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/f.jpg",
+          "MainImage": true,
+          "Product_ID": 1178,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 4275,
+          "importance": 368,
+          "product_id": 1178
+        }
+      ],
+      "marks": [],
+      "parameters": [
+        {
+          "Parameter_ID": 8424,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "1",
+          "price": 321,
+          "sort_order": 9
+        },
+        {
+          "Parameter_ID": 8434,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "2",
+          "price": 321,
+          "sort_order": 8
+        },
+        {
+          "Parameter_ID": 8435,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "3",
+          "price": 321,
+          "sort_order": 7
+        },
+        {
+          "Parameter_ID": 8436,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "4",
+          "price": 321,
+          "sort_order": 6
+        },
+        {
+          "Parameter_ID": 8437,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "5",
+          "price": 321,
+          "sort_order": 5
+        },
+        {
+          "Parameter_ID": 8438,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "6",
+          "price": 321,
+          "sort_order": 4
+        },
+        {
+          "Parameter_ID": 8439,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "7",
+          "price": 321,
+          "sort_order": 3
+        },
+        {
+          "Parameter_ID": 8440,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "8",
+          "price": 321,
+          "sort_order": 2
+        },
+        {
+          "Parameter_ID": 8441,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "9",
+          "price": 321,
+          "sort_order": 1
+        },
+        {
+          "Parameter_ID": 8442,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Название",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "10",
+          "price": 321,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [],
+      "reviews_video": [],
+      "tags": null
+    },
+    {
+      "Created_At": "Mon, 10 Feb 2025 14:24:13 GMT",
+      "OnMain": true,
+      "Product_ID": 6,
+      "Product_Name": "Airpods MAX",
+      "Updated_At": "Wed, 03 Sep 2025 05:40:15 GMT",
+      "categories": [
+        {
+          "Category_ID": 5,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+          "Category_Name": "Наушники",
+          "sort_order": 59
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 212,
+          "Color_Name": "цвет1",
+          "Color_image": "",
+          "Product_ID": 6,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#000000",
+          "Color_ID": 213,
+          "Color_Name": "цвет2",
+          "Color_image": "",
+          "Product_ID": 6,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 2
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 214,
+          "Color_Name": "навзание",
+          "Color_image": "",
+          "Product_ID": 6,
+          "discount": 33,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 1
+        }
+      ],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 360,
+          "parameter_id": 30,
+          "product_id": 6
+        },
+        {
+          "color_id": null,
+          "id": 361,
+          "parameter_id": 31,
+          "product_id": 6
+        }
+      ],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "- Оригинальный серийный номер (пробивается на офф. сайте)\n- Алюминиевый корпус\n- Активное шумоподавление/режим прозрачности\n- Амбушуры с магнитным креплением\n- Высокое качество звука\n- Оригинальные анимации и настройки",
+          "Delivery": "",
+          "Kit": "- Наушники\n- Комплект документов",
+          "Offer": "",
+          "Product_Extra_ID": 6,
+          "Product_ID": 6,
+          "ai_description": ""
+        }
+      ],
+      "from_crm": null,
+      "images": [
+        {
+          "Image_ID": 19,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax1.png",
+          "MainImage": true,
+          "Product_ID": 6,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        },
+        {
+          "Image_ID": 22,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax4.png",
+          "MainImage": false,
+          "Product_ID": 6,
+          "position": "product",
+          "sort_order": 0,
+          "title": "12345"
+        },
+        {
+          "Image_ID": 20,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax2.png",
+          "MainImage": false,
+          "Product_ID": 6,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        },
+        {
+          "Image_ID": 21,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax3.png",
+          "MainImage": false,
+          "Product_ID": 6,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        },
+        {
+          "Image_ID": 1044,
+          "Image_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax4.png",
+          "MainImage": false,
+          "Product_ID": 6,
+          "position": "product",
+          "sort_order": 1,
+          "title": "12345"
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 7223,
+          "importance": 7,
+          "product_id": 6
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 1,
+          "Mark_Name": "sale"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 29,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "Серый",
+          "price": 29,
+          "sort_order": 4
+        },
+        {
+          "Parameter_ID": 30,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "Чёрный",
+          "price": 30,
+          "sort_order": 0
+        },
+        {
+          "Parameter_ID": 31,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "Зелёный",
+          "price": 31,
+          "sort_order": 1
+        },
+        {
+          "Parameter_ID": 32,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "Красный",
+          "price": 32,
+          "sort_order": 2
+        },
+        {
+          "Parameter_ID": 33,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://noxer-test.ru/webapp/user_files/i_VsN8xK7v8.jpg",
+          "name": "Цвет",
+          "old_price": null,
+          "parameter_json": {
+            "add_images": [
+              "https://noxer-test.ru/webapp/user_files/f.jpg",
+              "https://noxer-test.ru/webapp/user_files/lw896_cadillac.jpeg"
+            ]
+          },
+          "parameter_string": "Синий",
+          "price": 33,
+          "sort_order": 3
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 6,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Airmaxotziv.jpg",
+          "Product_ID": 6,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 9,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv1.jpg",
+          "Product_ID": 6,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 10,
+          "Photo_URL": "https://static-sda.ru/project/Photo/otziv/Otziv2.jpg",
+          "Product_ID": 6,
+          "sort_order": null
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "",
+          "Product_ID": 6,
+          "Video_ID": 6,
+          "Video_URL": "https://static-sda.ru/project/Photo/Airpods_%D0%9C%D0%B0%D1%85/airmax.mp4",
+          "sort_order": null
+        }
+      ],
+      "tags": [
+        "наушники\\nбелое"
+      ]
+    },
+    {
+      "Created_At": "Tue, 26 Aug 2025 14:14:48 GMT",
+      "OnMain": true,
+      "Product_ID": 1144,
+      "Product_Name": "Тест дупла я",
+      "Updated_At": "Tue, 26 Aug 2025 14:38:05 GMT",
+      "categories": [
+        {
+          "Category_ID": 3,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card3.png",
+          "Category_Name": "Кроссовки",
+          "sort_order": 57
+        },
+        {
+          "Category_ID": 67,
+          "Category_Image": "",
+          "Category_Name": "Сайт на тильде",
+          "sort_order": 51
+        },
+        {
+          "Category_ID": 68,
+          "Category_Image": "",
+          "Category_Name": "открытки",
+          "sort_order": 52
+        },
+        {
+          "Category_ID": 73,
+          "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "Category_Name": "ТЕСТ",
+          "sort_order": 64
+        },
+        {
+          "Category_ID": 77,
+          "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+          "Category_Name": "=)",
+          "sort_order": 8
+        },
+        {
+          "Category_ID": 78,
+          "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "Category_Name": "ТЕСТ1",
+          "sort_order": 71
+        },
+        {
+          "Category_ID": 79,
+          "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "Category_Name": "ТЕСТ2",
+          "sort_order": 69
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#6368b6",
+          "Color_ID": 208,
+          "Color_Name": "1",
+          "Color_image": "https://noxer-test.ru/webapp/user_files/f.jpg",
+          "Product_ID": 1144,
+          "discount": 0,
+          "json_data": {
+            "add_images": [
+              {
+                "image_name": "Фото 2",
+                "image_url": "https://noxer-test.ru/webapp/user_files/f.jpg",
+                "sort_order": 1
+              }
+            ]
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#6a3434",
+          "Color_ID": 209,
+          "Color_Name": "2",
+          "Color_image": "https://noxer-test.ru/webapp/user_files/f.jpg",
+          "Product_ID": 1144,
+          "discount": 0,
+          "json_data": {
+            "add_images": [
+              {
+                "image_name": "Фото 2",
+                "image_url": "https://noxer-test.ru/webapp/user_files/f.jpg",
+                "sort_order": 1
+              }
+            ]
+          },
+          "sort_order": 1
+        }
+      ],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 165,
+          "parameter_id": 8381,
+          "product_id": 1144
+        }
+      ],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "1",
+          "Delivery": "5",
+          "Kit": "2",
+          "Offer": "4",
+          "Product_Extra_ID": 10,
+          "Product_ID": 1144,
+          "ai_description": "6 фш"
+        }
+      ],
+      "from_crm": false,
+      "images": [
+        {
+          "Image_ID": 1008,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/f.jpg",
+          "MainImage": true,
+          "Product_ID": 1144,
+          "position": "product",
+          "sort_order": 1,
+          "title": "1"
+        },
+        {
+          "Image_ID": 1009,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/f1.jpg",
+          "MainImage": false,
+          "Product_ID": 1144,
+          "position": "product",
+          "sort_order": 0,
+          "title": "1"
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 4241,
+          "importance": 334,
+          "product_id": 1144
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 2,
+          "Mark_Name": "new"
+        },
+        {
+          "Mark_ID": 4,
+          "Mark_Name": "discount"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 8379,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "1",
+          "old_price": null,
+          "parameter_json": {
+            "add_images": [
+              "https://noxer-test.ru/webapp/user_files/f.jpg"
+            ]
+          },
+          "parameter_string": "https://noxer-test.ru/webapp/user_files/Dod.png",
+          "price": 234,
+          "sort_order": 6
+        },
+        {
+          "Parameter_ID": 8381,
+          "chosen": true,
+          "disabled": true,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "2",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "https://noxer-test.ru/webapp/user_files/Dod.png",
+          "price": 7569,
+          "sort_order": 5
+        },
+        {
+          "Parameter_ID": 8382,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "3",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s1",
+          "price": 8,
+          "sort_order": 4
+        },
+        {
+          "Parameter_ID": 8383,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "4",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s2",
+          "price": 7,
+          "sort_order": 3
+        },
+        {
+          "Parameter_ID": 8384,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "5",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s3",
+          "price": 6,
+          "sort_order": 2
+        },
+        {
+          "Parameter_ID": 8385,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "6",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s4",
+          "price": 5,
+          "sort_order": 1
+        },
+        {
+          "Parameter_ID": 8386,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "7",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s5",
+          "price": 4,
+          "sort_order": 0
+        },
+        {
+          "Parameter_ID": 8387,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "8",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s6",
+          "price": 3,
+          "sort_order": 2
+        },
+        {
+          "Parameter_ID": 8388,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "9",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s7",
+          "price": 2,
+          "sort_order": 1
+        },
+        {
+          "Parameter_ID": 8389,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "0",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "s8",
+          "price": 1,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 13,
+          "Photo_URL": "https://noxer-test.ru/webapp/",
+          "Product_ID": 1144,
+          "sort_order": 0
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "",
+          "Product_ID": 1144,
+          "Video_ID": 13,
+          "Video_URL": "https://noxer-test.ru/webapp/user_files/mp44.mp4",
+          "sort_order": 0
+        }
+      ],
+      "tags": null
+    },
+    {
+      "Created_At": "Fri, 29 Aug 2025 10:44:11 GMT",
+      "OnMain": true,
+      "Product_ID": 1156,
+      "Product_Name": "YCX1620 Mercedes G-Class Forged Wheel",
+      "Updated_At": "Fri, 29 Aug 2025 10:45:02 GMT",
+      "categories": [
+        {
+          "Category_ID": 1,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+          "Category_Name": "Техника",
+          "sort_order": 37
+        }
+      ],
+      "colors": [],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 170,
+          "parameter_id": 8402,
+          "product_id": 1156
+        }
+      ],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "YCX1620 — это кованый колесный диск, разработанный специально для обновлённого Mercedes‑Benz G‑Class 2025 года. Параметры 24×10, разболтовка 5×130, вылет ET30 и центральное отверстие 84,1 мм обеспечивают идеальную посадку на внедорожники G‑класса.",
+          "Delivery": "YCX1620 станет правильным выбором для тех, кто ценит надёжность, роскошь и хочет подчеркнуть индивидуальность своего Mercedes‑Benz G‑Class.",
+          "Kit": "Благодаря ковке из алюминиевого сплава диск сочетает высокую прочность и малый вес. Глянцевая черная поверхность с алмазной обработкой подчёркивает агрессивный стиль легендарного автомобиля.",
+          "Offer": "Номинальная нагрузка 1000 кг и вес 20 кг позволяют использовать диск как на асфальте, так и за пределами дорог. Покрытие устойчиво к коррозии и механическим повреждениям.",
+          "Product_Extra_ID": 12,
+          "Product_ID": 1156,
+          "ai_description": "Кованый диск YCX1620 24×10, PCD 5×130, ET30, CB 84,1 мм. Для Mercedes‑Benz G‑Class 2025. Глянцевый черный дизайн, нагрузка 1000 кг, вес 20 кг."
+        }
+      ],
+      "from_crm": false,
+      "images": [
+        {
+          "Image_ID": 1017,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/ycx1620_brabus.jpeg",
+          "MainImage": true,
+          "Product_ID": 1156,
+          "position": "product",
+          "sort_order": 0,
+          "title": "YCX1620"
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 4253,
+          "importance": 346,
+          "product_id": 1156
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 5,
+          "Mark_Name": "premium"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 8402,
+          "chosen": true,
+          "disabled": true,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Стандартная комплектация",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "24x10 ET30 5x130 CB84.1",
+          "price": 65000,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [],
+      "reviews_video": [],
+      "tags": [
+        "ycx1620\\nmercedes\\ng-class\\n24x10\\nbrabus"
+      ]
+    },
+    {
+      "Created_At": "Fri, 29 Aug 2025 11:03:04 GMT",
+      "OnMain": true,
+      "Product_ID": 1158,
+      "Product_Name": "Mixtan Aerodisc Forged Wheel",
+      "Updated_At": "Fri, 29 Aug 2025 11:03:04 GMT",
+      "categories": [
+        {
+          "Category_ID": 1,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+          "Category_Name": "Техника",
+          "sort_order": 37
+        }
+      ],
+      "colors": [],
+      "excluded": [],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "Mixtan Aerodisc — эксклюзивный кованый диск для динамичных седанов и кроссоверов. Диаметр 22 дюйма, ширина 9,5J, вылет ET30 и разболтовка 5×112 позволяют установить диск на большинство премиальных автомобилей. Материал — высокопрочный алюминиевый сплав, обработанный методом ковки, обеспечивает прочность и низкий вес.",
+          "Delivery": "Mixtan Aerodisc — выбор клиентов, ценящих эстетику и технологичность. Диск может быть изготовлен под заказ с выбором параметров PCD от 5×112 до 6×139.7, диаметром от 20 до 24 дюймов. В комплект входят кольца для подгонки ступичного отверстия.",
+          "Kit": "Дизайн Aerodisc с минимальными прорезями создан для снижения аэродинамического сопротивления и защиты тормозной системы от грязи. Черное глянцевое покрытие с полированными канавками подчёркивает премиальность. Каждый диск проходит испытания на нагрузку 950 кг и выдерживает агрессивный стиль вождения.",
+          "Offer": "Вес диска составляет всего 17 кг, что уменьшает неподрессоренную массу автомобиля и улучшает управляемость. Специальное антикоррозионное покрытие защищает поверхность от реагентов и солей, что важно для эксплуатации в городских условиях.",
+          "Product_Extra_ID": 14,
+          "Product_ID": 1158,
+          "ai_description": "Кованый диск Mixtan Aerodisc диаметром 22 дюйма с шириной 9,5J, PCD 5×112, вылетом ET30 и ЦО 66,6 мм. Лёгкий аэродинамичный дизайн с минимальными прорезями, черное глянцевое покрытие. Нагрузка 950 кг, вес 17 кг. Идеален для премиальных седанов и кроссоверов."
+        }
+      ],
+      "from_crm": false,
+      "images": [
+        {
+          "Image_ID": 1019,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/mixtan_aerodisc.jpeg",
+          "MainImage": true,
+          "Product_ID": 1158,
+          "position": "product",
+          "sort_order": 0,
+          "title": "Mixtan Aerodisc"
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 4255,
+          "importance": 348,
+          "product_id": 1158
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 5,
+          "Mark_Name": "premium"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 8404,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Стандартная комплектация",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "R22×9.5J ET30 5×112 CB66.6",
+          "price": 60000,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [],
+      "reviews_video": [],
+      "tags": [
+        "mixtan\\naerodisc\\n22\\n5x112\\nforged\\npremium"
+      ]
+    },
+    {
+      "Created_At": "Thu, 30 Jan 2025 15:38:47 GMT",
+      "OnMain": true,
+      "Product_ID": 1,
+      "Product_Name": "Наушники COMMO One",
+      "Updated_At": "Tue, 09 Sep 2025 13:13:43 GMT",
+      "categories": [
+        {
+          "Category_ID": 1,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+          "Category_Name": "Техника",
+          "sort_order": 37
+        },
+        {
+          "Category_ID": 54,
+          "Category_Image": "https://snipp.ru/uploads/images/donut.png",
+          "Category_Name": "ТЕстовая категорий",
+          "sort_order": 38
+        },
+        {
+          "Category_ID": 55,
+          "Category_Image": "",
+          "Category_Name": "Упаковка расходники",
+          "sort_order": 39
+        },
+        {
+          "Category_ID": 56,
+          "Category_Image": "",
+          "Category_Name": "срезка",
+          "sort_order": 40
+        },
+        {
+          "Category_ID": 77,
+          "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+          "Category_Name": "=)",
+          "sort_order": 8
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#000000",
+          "Color_ID": 6,
+          "Color_Name": "Чёрный",
+          "Color_image": "https://static-sda.ru/brandbot/tovars/img1.jpg",
+          "Product_ID": 1,
+          "discount": 1,
+          "json_data": {
+            "add_images": [
+              {
+                "image_name": "Фото 2",
+                "image_url": "https://static-sda.ru/brandbot/tovars/img1.jpg",
+                "sort_order": 1
+              }
+            ]
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 7,
+          "Color_Name": "Белый",
+          "Color_image": "",
+          "Product_ID": 1,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 2
+        },
+        {
+          "Color_Code": "#808000",
+          "Color_ID": 8,
+          "Color_Name": "Оливковый",
+          "Color_image": "",
+          "Product_ID": 1,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 4
+        },
+        {
+          "Color_Code": "#ec3c3c",
+          "Color_ID": 215,
+          "Color_Name": "цвет1",
+          "Color_image": "",
+          "Product_ID": 1,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 1
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 216,
+          "Color_Name": "цвет2",
+          "Color_image": "",
+          "Product_ID": 1,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 3
+        }
+      ],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 2397,
+          "parameter_id": null,
+          "product_id": 1
+        },
+        {
+          "color_id": 6,
+          "id": 2396,
+          "parameter_id": 21,
+          "product_id": 1
+        }
+      ],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "Здесь будет находиться описание вашего товара такого размера, какого захотите1",
+          "Delivery": "3",
+          "Kit": "Здесь будут находиться характеристики вашего товара такого размера, какого захотите1",
+          "Offer": "2",
+          "Product_Extra_ID": 1,
+          "Product_ID": 1,
+          "ai_description": "тут"
+        }
+      ],
+      "from_crm": null,
+      "images": [
+        {
+          "Image_ID": 1,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img1.jpg",
+          "MainImage": true,
+          "Product_ID": 1,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        },
+        {
+          "Image_ID": 1028,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img1.jpg",
+          "MainImage": false,
+          "Product_ID": 1,
+          "position": "product",
+          "sort_order": 1,
+          "title": ""
+        },
+        {
+          "Image_ID": 1029,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/img1.jpg",
+          "MainImage": false,
+          "Product_ID": 1,
+          "position": "product",
+          "sort_order": 2,
+          "title": ""
+        },
+        {
+          "Image_ID": 1032,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/i_VsN8xK7v8.jpg",
+          "MainImage": false,
+          "Product_ID": 1,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        },
+        {
+          "Image_ID": 1031,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/IMG_5375.JPG",
+          "MainImage": false,
+          "Product_ID": 1,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 7224,
+          "importance": 5,
+          "product_id": 1
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 6,
+          "Mark_Name": "hot"
+        },
+        {
+          "Mark_ID": 2,
+          "Mark_Name": "new"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 21,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Шт",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "1",
+          "price": 21,
+          "sort_order": 0
+        },
+        {
+          "Parameter_ID": 8425,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Шт",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "2",
+          "price": 22,
+          "sort_order": 1
+        },
+        {
+          "Parameter_ID": 8426,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Шт",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "3",
+          "price": 23,
+          "sort_order": 2
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 1,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 1,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 14,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/lw891_bmw.jpeg",
+          "Product_ID": 1,
+          "sort_order": 0
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 1,
+          "Video_ID": 4,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        }
+      ],
+      "tags": [
+        "белое\\nполноразмерные\\nунисекс\\nтест"
+      ]
+    },
+    {
+      "Created_At": "Wed, 03 Sep 2025 05:43:05 GMT",
+      "OnMain": true,
+      "Product_ID": 8,
+      "Product_Name": "Футболка оверсайз мужская",
+      "Updated_At": "Wed, 03 Sep 2025 05:43:09 GMT",
+      "categories": [
+        {
+          "Category_ID": 2,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+          "Category_Name": "Одеждаы",
+          "sort_order": 56
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 225,
+          "Color_Name": "цвеу",
+          "Color_image": "",
+          "Product_ID": 8,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#e70d0d",
+          "Color_ID": 226,
+          "Color_Name": "йцвпи",
+          "Color_image": "https://noxer-test.ru/webapp/user_files/22.jpg",
+          "Product_ID": 8,
+          "discount": 23,
+          "json_data": {
+            "add_images": [
+              {
+                "image_name": "уц",
+                "image_url": "https://noxer-test.ru/webapp/user_files/22.jpg",
+                "sort_order": 1
+              }
+            ]
+          },
+          "sort_order": 1
+        }
+      ],
+      "excluded": [],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 27,
+          "Product_ID": 8,
+          "ai_description": ""
+        }
+      ],
+      "from_crm": null,
+      "images": [
+        {
+          "Image_ID": 26,
+          "Image_URL": "https://static-sda.ru/brandbot/tovars/t2.jpg",
+          "MainImage": true,
+          "Product_ID": 8,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 7220,
+          "importance": 8,
+          "product_id": 8
+        }
+      ],
+      "marks": [],
+      "parameters": [
+        {
+          "Parameter_ID": 37,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Размер",
+          "old_price": 9999,
+          "parameter_json": {},
+          "parameter_string": "XXXL",
+          "price": 1100,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [],
+      "reviews_video": [],
+      "tags": null
+    },
+    {
+      "Created_At": "Mon, 25 Aug 2025 14:11:20 GMT",
+      "OnMain": true,
+      "Product_ID": 1140,
+      "Product_Name": "Дырка от бублика Игоря =)",
+      "Updated_At": "Tue, 26 Aug 2025 13:56:17 GMT",
+      "categories": [
+        {
+          "Category_ID": 54,
+          "Category_Image": "https://snipp.ru/uploads/images/donut.png",
+          "Category_Name": "ТЕстовая категорий",
+          "sort_order": 38
+        },
+        {
+          "Category_ID": 73,
+          "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "Category_Name": "ТЕСТ",
+          "sort_order": 64
+        },
+        {
+          "Category_ID": 77,
+          "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+          "Category_Name": "=)",
+          "sort_order": 8
+        },
+        {
+          "Category_ID": 78,
+          "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "Category_Name": "ТЕСТ1",
+          "sort_order": 71
+        },
+        {
+          "Category_ID": 79,
+          "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "Category_Name": "ТЕСТ2",
+          "sort_order": 69
+        },
+        {
+          "Category_ID": 80,
+          "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+          "Category_Name": "ТЕСТ3",
+          "sort_order": 68
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#708bc2",
+          "Color_ID": 205,
+          "Color_Name": "2",
+          "Color_image": "",
+          "Product_ID": 1140,
+          "discount": 999999,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#a64e4e",
+          "Color_ID": 204,
+          "Color_Name": "1",
+          "Color_image": "https://noxer-test.ru/user_files//fф.jpg",
+          "Product_ID": 1140,
+          "discount": 999999,
+          "json_data": {
+            "add_images": [
+              {
+                "image_name": "Основное фото",
+                "image_url": "https://noxer-test.ru/user_files//f.jpg",
+                "sort_order": 0
+              }
+            ]
+          },
+          "sort_order": 2
+        },
+        {
+          "Color_Code": "#663a83",
+          "Color_ID": 206,
+          "Color_Name": "3",
+          "Color_image": "",
+          "Product_ID": 1140,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 1
+        }
+      ],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 391,
+          "parameter_id": 8369,
+          "product_id": 1140
+        },
+        {
+          "color_id": null,
+          "id": 392,
+          "parameter_id": 8368,
+          "product_id": 1140
+        },
+        {
+          "color_id": null,
+          "id": 393,
+          "parameter_id": 8363,
+          "product_id": 1140
+        },
+        {
+          "color_id": null,
+          "id": 394,
+          "parameter_id": 8366,
+          "product_id": 1140
+        },
+        {
+          "color_id": null,
+          "id": 395,
+          "parameter_id": 8367,
+          "product_id": 1140
+        },
+        {
+          "color_id": null,
+          "id": 396,
+          "parameter_id": 8373,
+          "product_id": 1140
+        }
+      ],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 8,
+          "Product_ID": 1140,
+          "ai_description": "Красивое описание товара для AI"
+        }
+      ],
+      "from_crm": false,
+      "images": [
+        {
+          "Image_ID": 999,
+          "Image_URL": "https://snipp.ru/uploads/images/donut.png",
+          "MainImage": false,
+          "Product_ID": 1140,
+          "position": "parameters",
+          "sort_order": 1,
+          "title": "Пончик 2"
+        },
+        {
+          "Image_ID": 997,
+          "Image_URL": "https://snipp.ru/uploads/images/donut.png",
+          "MainImage": true,
+          "Product_ID": 1140,
+          "position": "product",
+          "sort_order": 0,
+          "title": "Пончик 1"
+        },
+        {
+          "Image_ID": 1006,
+          "Image_URL": "https://snipp.ru/uploads/images/donut4.png",
+          "MainImage": false,
+          "Product_ID": 1140,
+          "position": "product",
+          "sort_order": 4,
+          "title": "45"
+        },
+        {
+          "Image_ID": 1004,
+          "Image_URL": "https://snipp.ru/uploads/images/donut.png",
+          "MainImage": true,
+          "Product_ID": 1140,
+          "position": "product",
+          "sort_order": 0,
+          "title": "Пончик 1"
+        },
+        {
+          "Image_ID": 1005,
+          "Image_URL": "https://snipp.ru/uploads/images/donut2.png",
+          "MainImage": false,
+          "Product_ID": 1140,
+          "position": "parameters",
+          "sort_order": 1,
+          "title": "Пончик 2"
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 4238,
+          "importance": 331,
+          "product_id": 1140
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 4,
+          "Mark_Name": "discount"
+        },
+        {
+          "Mark_ID": 2,
+          "Mark_Name": "new"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 8363,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "123",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "1235",
+          "price": 123,
+          "sort_order": 4
+        },
+        {
+          "Parameter_ID": 8366,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "1 \"№*)(?;№;)(_+\";\"",
+          "old_price": 66,
+          "parameter_json": {},
+          "parameter_string": "12",
+          "price": 4,
+          "sort_order": 6
+        },
+        {
+          "Parameter_ID": 8367,
+          "chosen": false,
+          "disabled": true,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "2 3425",
+          "old_price": 66,
+          "parameter_json": {},
+          "parameter_string": "45",
+          "price": 3,
+          "sort_order": 8
+        },
+        {
+          "Parameter_ID": 8368,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "3свыччс",
+          "old_price": 66,
+          "parameter_json": {
+            "add_images": [
+              "https://noxer-test.ru/user_files//f.jpg"
+            ]
+          },
+          "parameter_string": "3",
+          "price": 2,
+          "sort_order": 2
+        },
+        {
+          "Parameter_ID": 8369,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "4 яя  ",
+          "old_price": 66,
+          "parameter_json": {},
+          "parameter_string": "1",
+          "price": 1,
+          "sort_order": 0
+        },
+        {
+          "Parameter_ID": 8370,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "3свыччс",
+          "old_price": 66,
+          "parameter_json": {
+            "add_images": [
+              "https://noxer-test.ru/user_files//f.jpg"
+            ]
+          },
+          "parameter_string": "4",
+          "price": 2,
+          "sort_order": 3
+        },
+        {
+          "Parameter_ID": 8371,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "123",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "123",
+          "price": 123,
+          "sort_order": 5
+        },
+        {
+          "Parameter_ID": 8372,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "1 \"№*)(?;№;)(_+\";\"",
+          "old_price": 66,
+          "parameter_json": {},
+          "parameter_string": "2",
+          "price": 4,
+          "sort_order": 7
+        },
+        {
+          "Parameter_ID": 8373,
+          "chosen": false,
+          "disabled": true,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "2 3425",
+          "old_price": 66,
+          "parameter_json": {},
+          "parameter_string": "6",
+          "price": 3,
+          "sort_order": 9
+        },
+        {
+          "Parameter_ID": 8374,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "4 яя  ",
+          "old_price": 66,
+          "parameter_json": {},
+          "parameter_string": "2",
+          "price": 1,
+          "sort_order": 1
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 12,
+          "Photo_URL": "https://snipp.ru/uploads/images/donut.png",
+          "Product_ID": 1140,
+          "sort_order": 0
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "",
+          "Product_ID": 1140,
+          "Video_ID": 12,
+          "Video_URL": "https://snipp.ru/uploads/images/donut.mp4",
+          "sort_order": 0
+        }
+      ],
+      "tags": null
+    },
+    {
+      "Created_At": "Fri, 29 Aug 2025 10:34:25 GMT",
+      "OnMain": true,
+      "Product_ID": 1155,
+      "Product_Name": "LW896 Cadillac Escalade Forged Wheel",
+      "Updated_At": "Mon, 01 Sep 2025 11:51:29 GMT",
+      "categories": [
+        {
+          "Category_ID": 1,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+          "Category_Name": "Техника",
+          "sort_order": 37
+        },
+        {
+          "Category_ID": 77,
+          "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+          "Category_Name": "=)",
+          "sort_order": 8
+        }
+      ],
+      "colors": [],
+      "excluded": [
+        {
+          "color_id": null,
+          "id": 179,
+          "parameter_id": 8401,
+          "product_id": 1155
+        }
+      ],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "Размер: 24x10 дюймов, PCD 6x139.7, вылет ET20, диаметр ступицы 78.1 мм.",
+          "Delivery": "Легенда: этот диск создавался для смелых внедорожников Escalade. Сочетает стиль, прочность и максимальную надёжность.",
+          "Kit": "Материал: кованый алюминиевый сплав, покрытие – глянцевый чёрный. Подходит для Cadillac Escalade.",
+          "Offer": "Нагрузка до 1150 кг, вес колеса 20.5 кг.",
+          "Product_Extra_ID": 11,
+          "Product_ID": 1155,
+          "ai_description": "Кованый легкосплавный диск LW896, 24\" для Cadillac Escalade. Высокий ресурс и премиальный дизайн."
+        }
+      ],
+      "from_crm": false,
+      "images": [
+        {
+          "Image_ID": 1025,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/lw896_cadillac.jpeg",
+          "MainImage": false,
+          "Product_ID": 1155,
+          "position": "product",
+          "sort_order": 1,
+          "title": "3"
+        },
+        {
+          "Image_ID": 1016,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/lw896_cadillac.jpeg",
+          "MainImage": true,
+          "Product_ID": 1155,
+          "position": "product",
+          "sort_order": 0,
+          "title": "2"
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 4252,
+          "importance": 345,
+          "product_id": 1155
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 5,
+          "Mark_Name": "premium"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 8401,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "Стандартная комплектация",
+          "old_price": null,
+          "parameter_json": {},
+          "parameter_string": "24x10 ET20 6x139.7 CB78.1",
+          "price": 50000,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [],
+      "reviews_video": [],
+      "tags": [
+        "cadillac\\n24x10\\nдиск\\nкованый\\nновая одежда\\n1"
+      ]
+    },
+    {
+      "Created_At": "Fri, 05 Sep 2025 11:28:13 GMT",
+      "OnMain": true,
+      "Product_ID": 1595,
+      "Product_Name": "тест",
+      "Updated_At": "Fri, 05 Sep 2025 11:28:13 GMT",
+      "categories": [
+        {
+          "Category_ID": 77,
+          "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+          "Category_Name": "=)",
+          "sort_order": 8
+        },
+        {
+          "Category_ID": 93,
+          "Category_Image": "",
+          "Category_Name": "YAMAL HERO",
+          "sort_order": 9
+        },
+        {
+          "Category_ID": 94,
+          "Category_Image": "",
+          "Category_Name": "Сертификаты",
+          "sort_order": 10
+        },
+        {
+          "Category_ID": 95,
+          "Category_Image": "",
+          "Category_Name": "Шапки, перчатки, кепки",
+          "sort_order": 11
+        },
+        {
+          "Category_ID": 96,
+          "Category_Image": "",
+          "Category_Name": "Цех Ноябрьск",
+          "sort_order": 12
+        },
+        {
+          "Category_ID": 97,
+          "Category_Image": "",
+          "Category_Name": "Штаны",
+          "sort_order": 13
+        },
+        {
+          "Category_ID": 98,
+          "Category_Image": "",
+          "Category_Name": "Футболки",
+          "sort_order": 14
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#b09696",
+          "Color_ID": 241,
+          "Color_Name": "цвет",
+          "Color_image": "",
+          "Product_ID": 1595,
+          "discount": 5,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 0
+        }
+      ],
+      "excluded": [],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "тест",
+          "Delivery": "тест",
+          "Kit": "тест",
+          "Offer": "тест",
+          "Product_Extra_ID": 28,
+          "Product_ID": 1595,
+          "ai_description": "тест"
+        }
+      ],
+      "from_crm": false,
+      "images": [
+        {
+          "Image_ID": 1803,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/11.jpeg",
+          "MainImage": true,
+          "Product_ID": 1595,
+          "position": "product",
+          "sort_order": 0,
+          "title": ""
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 4692,
+          "importance": 785,
+          "product_id": 1595
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 2,
+          "Mark_Name": "new"
+        },
+        {
+          "Mark_ID": 1,
+          "Mark_Name": "sale"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 15936,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "",
+          "name": "навзание",
+          "old_price": 321,
+          "parameter_json": {},
+          "parameter_string": "значение",
+          "price": 123,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 31,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/11.jpeg",
+          "Product_ID": 1595,
+          "sort_order": 0
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://noxer-test.ru/webapp/user_files/11.jpeg",
+          "Product_ID": 1595,
+          "Video_ID": 22,
+          "Video_URL": "https://noxer-test.ru/webapp/user_files/large.mp4",
+          "sort_order": 0
+        }
+      ],
+      "tags": [
+        "теги"
+      ]
+    },
+    {
+      "Created_At": "Wed, 03 Sep 2025 09:59:11 GMT",
+      "OnMain": true,
+      "Product_ID": 4,
+      "Product_Name": "Пишмание 250 гр Турция",
+      "Updated_At": "Tue, 09 Sep 2025 14:48:27 GMT",
+      "categories": [
+        {
+          "Category_ID": 4,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+          "Category_Name": "Сладости",
+          "sort_order": 58
+        },
+        {
+          "Category_ID": 5,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+          "Category_Name": "Наушники",
+          "sort_order": 59
+        },
+        {
+          "Category_ID": 29,
+          "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+          "Category_Name": "test category",
+          "sort_order": 60
+        },
+        {
+          "Category_ID": 55,
+          "Category_Image": "",
+          "Category_Name": "Упаковка расходники",
+          "sort_order": 39
+        },
+        {
+          "Category_ID": 56,
+          "Category_Image": "",
+          "Category_Name": "срезка",
+          "sort_order": 40
+        },
+        {
+          "Category_ID": 57,
+          "Category_Image": "",
+          "Category_Name": "вазы",
+          "sort_order": 41
+        },
+        {
+          "Category_ID": 58,
+          "Category_Image": "",
+          "Category_Name": "пакеты",
+          "sort_order": 42
+        },
+        {
+          "Category_ID": 59,
+          "Category_Image": "",
+          "Category_Name": "комнатные растения",
+          "sort_order": 43
+        },
+        {
+          "Category_ID": 60,
+          "Category_Image": "",
+          "Category_Name": "свечи",
+          "sort_order": 44
+        },
+        {
+          "Category_ID": 61,
+          "Category_Image": "",
+          "Category_Name": "воздушные шары",
+          "sort_order": 45
+        },
+        {
+          "Category_ID": 62,
+          "Category_Image": "",
+          "Category_Name": "Доп.товары под реализацию",
+          "sort_order": 46
+        },
+        {
+          "Category_ID": 63,
+          "Category_Image": "",
+          "Category_Name": "сухоцветы",
+          "sort_order": 47
+        },
+        {
+          "Category_ID": 67,
+          "Category_Image": "",
+          "Category_Name": "Сайт на тильде",
+          "sort_order": 51
+        },
+        {
+          "Category_ID": 85,
+          "Category_Image": "",
+          "Category_Name": "тестик1",
+          "sort_order": 73
+        }
+      ],
+      "colors": [
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 223,
+          "Color_Name": "цвет",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 5003,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 0
+        },
+        {
+          "Color_Code": "#adadad",
+          "Color_ID": 224,
+          "Color_Name": "цвкт13",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 4562,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 3
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 229,
+          "Color_Name": "wert5",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 6
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 234,
+          "Color_Name": "цвет1",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 500,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 1
+        },
+        {
+          "Color_Code": "#adadad",
+          "Color_ID": 235,
+          "Color_Name": "цвкт14",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 4562,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 4
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 236,
+          "Color_Name": "wert6",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 7
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 237,
+          "Color_Name": "цвет2",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 5003,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 2
+        },
+        {
+          "Color_Code": "#adadad",
+          "Color_ID": 238,
+          "Color_Name": "цвкт1",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 4562,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 5
+        },
+        {
+          "Color_Code": "#FFFFFF",
+          "Color_ID": 239,
+          "Color_Name": "wert7",
+          "Color_image": "",
+          "Product_ID": 4,
+          "discount": 0,
+          "json_data": {
+            "add_images": []
+          },
+          "sort_order": 8
+        }
+      ],
+      "excluded": [],
+      "extra_json": {},
+      "extras": [
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 34,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 35,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 36,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 37,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 38,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 39,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 40,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 41,
+          "Product_ID": 4,
+          "ai_description": ""
+        },
+        {
+          "Characteristics": "",
+          "Delivery": "",
+          "Kit": "",
+          "Offer": "",
+          "Product_Extra_ID": 42,
+          "Product_ID": 4,
+          "ai_description": ""
+        }
+      ],
+      "from_crm": null,
+      "images": [
+        {
+          "Image_ID": 1042,
+          "Image_URL": "https://avatars.mds.yandex.net/get-mpic/5226473/img_id4959333646706083173.jpeg",
+          "MainImage": true,
+          "Product_ID": 4,
+          "position": "product",
+          "sort_order": 0,
+          "title": "rthrtrhtrh"
+        },
+        {
+          "Image_ID": 1043,
+          "Image_URL": "https://avatars.mds.yandex.net/get-mpic/5226473/img_id4959333646706083173.jpeg",
+          "MainImage": false,
+          "Product_ID": 4,
+          "position": "product",
+          "sort_order": 2,
+          "title": "34"
+        },
+        {
+          "Image_ID": 1045,
+          "Image_URL": "https://avatars.mds.yandex.net/get-mpic/5226473/img_id4959333646706083173.jpeg",
+          "MainImage": false,
+          "Product_ID": 4,
+          "position": "product",
+          "sort_order": 4,
+          "title": "rthrtrhtrh"
+        },
+        {
+          "Image_ID": 1046,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/IMG_5375.JPG",
+          "MainImage": false,
+          "Product_ID": 4,
+          "position": "product",
+          "sort_order": 1,
+          "title": ""
+        },
+        {
+          "Image_ID": 1047,
+          "Image_URL": "https://noxer-test.ru/webapp/user_files/IMG_5375.JPG",
+          "MainImage": false,
+          "Product_ID": 4,
+          "position": "parameters",
+          "sort_order": 3,
+          "title": "таблица"
+        }
+      ],
+      "importance_num": [
+        {
+          "id": 7228,
+          "importance": 2,
+          "product_id": 4
+        }
+      ],
+      "marks": [
+        {
+          "Mark_ID": 6,
+          "Mark_Name": "hot"
+        }
+      ],
+      "parameters": [
+        {
+          "Parameter_ID": 17,
+          "chosen": true,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://avatars.mds.yandex.net/get-mpic/6382710/img_id2126954685454519847.jpeg",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 666,
+          "parameter_json": {},
+          "parameter_string": "2 шт",
+          "price": 5003,
+          "sort_order": 1
+        },
+        {
+          "Parameter_ID": 18,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://i.ebayimg.com/images/g/q7wAAOSwheRkCfTF/s-l500.jpg",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 9992,
+          "parameter_json": {},
+          "parameter_string": "3 шт",
+          "price": 750,
+          "sort_order": 3
+        },
+        {
+          "Parameter_ID": 19,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://avatars.mds.yandex.net/get-mpic/4407413/img_id8514280599776279090.jpeg",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 1200,
+          "parameter_json": {},
+          "parameter_string": "4 шт",
+          "price": 1000,
+          "sort_order": 2
+        },
+        {
+          "Parameter_ID": 20,
+          "chosen": false,
+          "disabled": false,
+          "extra_field_color": "",
+          "extra_field_image": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/310555/AMpsLU6VAAWSRjMh2pJP3A.JPG",
+          "name": "Кол-во шт. в упаковке",
+          "old_price": 1500,
+          "parameter_json": {},
+          "parameter_string": "5 шт",
+          "price": 1250,
+          "sort_order": 0
+        }
+      ],
+      "reviews": [
+        {
+          "Photo_ID": 4,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 4,
+          "sort_order": null
+        },
+        {
+          "Photo_ID": 21,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/IMG_5375.JPG",
+          "Product_ID": 4,
+          "sort_order": 0
+        },
+        {
+          "Photo_ID": 24,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 4,
+          "sort_order": 1
+        },
+        {
+          "Photo_ID": 25,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/IMG_5375.JPG",
+          "Product_ID": 4,
+          "sort_order": 1
+        },
+        {
+          "Photo_ID": 26,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 4,
+          "sort_order": 2
+        },
+        {
+          "Photo_ID": 27,
+          "Photo_URL": "https://static-sda.ru/brandbot/rew.jpg",
+          "Product_ID": 4,
+          "sort_order": 3
+        },
+        {
+          "Photo_ID": 28,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/IMG_5375.JPG",
+          "Product_ID": 4,
+          "sort_order": 2
+        },
+        {
+          "Photo_ID": 29,
+          "Photo_URL": "https://noxer-test.ru/webapp/user_files/IMG_5375.JPG",
+          "Product_ID": 4,
+          "sort_order": 3
+        }
+      ],
+      "reviews_video": [
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 4,
+          "Video_ID": 3,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": null
+        },
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 4,
+          "Video_ID": 17,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": 1
+        },
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 4,
+          "Video_ID": 18,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": 2
+        },
+        {
+          "Poster_URL": "https://static-sda.ru/luxpods_photo/watchs10.png",
+          "Product_ID": 4,
+          "Video_ID": 19,
+          "Video_URL": "https://static-sda.ru/luxpods_photo/video/watchs10.mov",
+          "sort_order": 3
+        }
+      ],
+      "tags": [
+        "едаn562625укпow   wef  ef mkvmwl"
+      ]
+    }
+  ],
+  "special_project_parameters": {
+    "PAYMENT_SYSTEM_INSERT_TEXT_description": "&lt;p&gt;Спасибо за заказ в нашем царстве4544tyu!&lt;/p&gt;",
+    "PAYMENT_SYSTEM_INSERT_TEXT_extra_field_1": "Не потеряй гордость, заплати нашему царю за товар",
+    "PAYMENT_SYSTEM_INSERT_TEXT_value": "1",
+    "PAYMENT_SYSTEM_value": "yokassa_payment_system",
+    "SERVER_IP_ADDR_description": "http://localhost:7777",
+    "SERVER_IP_ADDR_value": "https://noxer-test.ru",
+    "cart_allow_post_payment_value": "yes",
+    "cart_delivery_price_offline_value": "999",
+    "cart_delivery_price_value": "599",
+    "footer_link_description": "@noxerai_bot",
+    "footer_link_value": "https://t.me/noxerai_bot",
+    "product_page_accordeon_item_header_12_description": "Описание 2",
+    "product_page_accordeon_item_header_12_value": "описание 1",
+    "product_page_accordeon_item_header_34_description": "Описание 4",
+    "product_page_accordeon_item_header_34_value": "описание 3",
+    "project_footer_special_text_extra_field_1": "(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(12345678, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });",
+    "project_footer_special_text_value": "yes",
+    "project_logo_description": "logo description",
+    "project_logo_extra_field_1": "logo extra parameter",
+    "project_logo_value": "https://noxer-test.ru/webapp/user_files/f.jpg",
+    "project_name_extra_field_1": "Разработано на платформе в noxerai_bot",
+    "project_name_value": "Test Server",
+    "telegram_bot_username_description": "Телеграм бот",
+    "telegram_bot_username_extra_field_1": ":)",
+    "telegram_bot_username_value": "@noxer_test_bot",
+    "telegram_header_link_description": "Ссылка на телеграм канал",
+    "telegram_header_link_value": "https://t.me/noxerai_bot",
+    "telegram_manager_contact_extra_field_1": "https://t.me/ilya_ai1",
+    "telegram_manager_contact_value": "@archimage_wiz",
+    "webapp_link_description": "Ссылка на приложение в телеграм!",
+    "webapp_link_value": "https://noxer-test.ru"
+  },
+  "special_project_parameters_actions": [
+    {
+      "action_type": "action",
+      "description": "Podarok1",
+      "extra_field_1": "",
+      "extra_field_2": "",
+      "id": 8,
+      "image_url": "https://i.pinimg.com/736x/f6/83/90/f68390a9ba1c0eec160c41cd57e21e49.jpg",
+      "sort_order": 1,
+      "url": "https://gradients.app/ru/newpalette"
+    },
+    {
+      "action_type": "action",
+      "description": "Podarok 2",
+      "extra_field_1": "",
+      "extra_field_2": "",
+      "id": 9,
+      "image_url": "https://images.wallpaperscraft.ru/image/single/kosmos_vselennaia_zvezdy_163453_1920x1080.jpg",
+      "sort_order": 2,
+      "url": "https://gradients.app/ru/newpalette"
+    },
+    {
+      "action_type": "action",
+      "description": "erg",
+      "extra_field_1": "",
+      "extra_field_2": "",
+      "id": 10,
+      "image_url": "https://png.pngtree.com/thumb_back/fh260/background/20200707/pngtree-mysterious-cosmic-space-galaxy-nebula-background-image_350807.jpg",
+      "sort_order": 3,
+      "url": "https://gradients.app/ru/newpaletwerwerwerte"
+    },
+    {
+      "action_type": "action",
+      "description": "yfpdfybt",
+      "extra_field_1": "",
+      "extra_field_2": "",
+      "id": 11,
+      "image_url": "https://grozny.tv/storage/images/2351222d-0bea-4f25-8380-bb9b62a99c58.jpg",
+      "sort_order": 5,
+      "url": "https://gradients.app/ru/newpalette"
+    },
+    {
+      "action_type": "p23",
+      "description": "yfpdfybt",
+      "extra_field_1": "50",
+      "extra_field_2": "50",
+      "id": 12,
+      "image_url": "https://grozny.tv/storage/images/2351222d-0bea-4f25-8380-bb9b62a99c58.jpg",
+      "sort_order": 4,
+      "url": "https://gradients.app/ru/newpalette"
+    }
+  ],
+  "special_project_parameters_badges": [
+    {
+      "description": "Доставка и оплата",
+      "extra_json": null,
+      "id": 2,
+      "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-4.svg",
+      "meaning_tag": null,
+      "sort_order": 3,
+      "url": "https://teletype.in/@brandbot/vW8XzSKnYug"
+    },
+    {
+      "description": "Гарантии",
+      "extra_json": null,
+      "id": 3,
+      "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-17.svg",
+      "meaning_tag": null,
+      "sort_order": 2,
+      "url": "https://teletype.in/@brandbot/1FoWO207kIH"
+    },
+    {
+      "description": "Режим работы",
+      "extra_json": null,
+      "id": 5,
+      "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-19.svg",
+      "meaning_tag": null,
+      "sort_order": 0,
+      "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+    },
+    {
+      "description": "Акции Магазина",
+      "extra_json": {
+        "isActive": true
+      },
+      "id": 6,
+      "image_url": "https://static-sda.ru/front_end/icons/percentage-circle.svg",
+      "meaning_tag": "actions",
+      "sort_order": 5,
+      "url": ""
+    },
+    {
+      "description": "Написать в поддержку",
+      "extra_json": {
+        "isActive": true
+      },
+      "id": 7,
+      "image_url": "https://static-sda.ru/front_end/icons/support.svg",
+      "meaning_tag": "support",
+      "sort_order": 6,
+      "url": ""
+    },
+    {
+      "description": "Установиить приложение на домашний экран",
+      "extra_json": {
+        "isActive": true
+      },
+      "id": 8,
+      "image_url": "https://static-sda.ru/front_end/icons/move_app_icon.svg",
+      "meaning_tag": "set_app",
+      "sort_order": 4,
+      "url": ""
+    },
+    {
+      "description": "Как мы работаем?",
+      "extra_json": null,
+      "id": 105,
+      "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-16.svg",
+      "meaning_tag": null,
+      "sort_order": 1,
+      "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+    }
+  ],
+  "special_project_parameters_json": {
+    "delivery_method": {
+      "methods_list": [
+        {
+          "addr_points": [
+            {
+              "address": "ул. Давыдова",
+              "name": "Склад 1"
+            },
+            {
+              "address": "dfgdfg",
+              "name": "Склад 2"
+            }
+          ],
+          "description": "Самовывоз в наш магазин",
+          "name": "Самовывоз",
+          "type": "self_delivery"
+        },
+        {
+          "name": "СДЕК",
+          "type": "cdek"
+        },
+        {
+          "name": "Почта России",
+          "type": "pochta"
+        }
+      ]
+    },
+    "disabled_gpt_models": {
+      "disabled_models": []
+    },
+    "fast_search_strings": {
+      "parameters_list": [
+        "Продукты",
+        "Икра",
+        "Полуфабрикаты",
+        "Рыба",
+        "никто не знал где л",
+        "Кроссовки",
+        "erg",
+        "окак"
+      ]
+    },
+    "global_reviews": {
+      "rating": 100,
+      "title": "Показать все отзывы?",
+      "total_ratings_count": 41,
+      "url": "https://noxer-test.ru/webapp/#/catalog"
+    },
+    "is_side_menu": true,
+    "softpay_button": {
+      "afterpay_button_link": "https://t.me/callandr",
+      "afterpay_button_text": "TEST BUTTON22"
+    }
+  },
+  "status": "ok"
+}
