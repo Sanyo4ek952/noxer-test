@@ -1,6 +1,7 @@
 import type { Product } from "../../../type/type.ts";
 import "./productItem.css";
 import { Button } from "../../Button/Button.tsx";
+import { LikeButton } from "../../LikeButton/LikeButton.tsx";
 interface Props {
   product: Product;
 }
@@ -16,6 +17,7 @@ export const ProductItem = ({ product }: Props) => {
         {mark.includes("sale") && <div className={"sale"}>SALE</div>}
         {mark.includes("premium") && <div className={"premium"}>Премиум</div>}
       </div>
+      <LikeButton className={"like-button"} productId={product.Product_ID} />
       <div className={"product-image-wrapper"}>
         <img
           loading="lazy"
