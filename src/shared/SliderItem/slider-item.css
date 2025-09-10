@@ -2,9 +2,11 @@
     width: 79px;
     height: 79px;
     margin-bottom: 5px;
+    border-radius: 15px;
 }
 .category-name{
     text-transform: capitalize;
+    text-align: center;
 }
 @media  (max-width: 420px){
     .image{

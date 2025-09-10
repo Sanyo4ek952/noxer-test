@@ -31,12 +31,6 @@ export default function SimpleSlider({ items }: Props) {
           slidesToShow: 4,
         },
       },
-      // {
-      //   breakpoint: 425, // до 900px
-      //   settings: {
-      //     slidesToShow: 3,
-      //   },
-      // },
     ],
     arrows: false,
   };
