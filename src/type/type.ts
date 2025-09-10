@@ -83,7 +83,9 @@ interface ParameterProduct {
   extra_field_image: string;
   name: string;
   old_price: number;
-  parameter_json: Record<string, any>;
+  parameter_json: {
+    add_images: string[];
+  };
   parameter_string: string;
   price: number;
   sort_order: number;
