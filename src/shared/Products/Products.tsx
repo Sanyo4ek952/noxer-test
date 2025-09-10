@@ -10,6 +10,7 @@ import { getPopularSearchTerms } from "../../utils/getPopularSearchTerms.ts";
 import { ProductsItems } from "./ProductsItems/ProductsItems.tsx";
 import SimpleSlider from "../SimpleSlider/SimpleSlider.tsx";
 import "./products.css";
+import { Button } from "../Button/Button.tsx";
 
 export const Products = () => {
   const [products, setProducts] = useState<Product[]>([]);
@@ -50,6 +51,24 @@ export const Products = () => {
   useEffect(() => {
     setPopular(getPopularSearchTerms(products, 5));
   }, [products, setPopular]);
+  const handleNextPage = () => {
+    setPage((prev: number) => {
+      if (prev === 0) {
+        return 1;
+      } else {
+        return prev + 1;
+      }
+    });
+  };
+  const handlePrevPage = () => {
+    setPage((prev: number) => {
+      if (prev === 0) {
+        return 1;
+      } else {
+        return prev - 1;
+      }
+    });
+  };
   return (
     <div className={"products-wrapper"}>
       <Input
@@ -63,11 +82,11 @@ export const Products = () => {
         <SimpleSlider items={allCategories || []} />
       </div>
 
-      <ProductsItems
-        setPage={setPage}
-        loading={loading}
-        filteredProducts={filteredProducts}
-      />
+      <ProductsItems loading={loading} filteredProducts={filteredProducts} />
+      <div className="pagination">
+        <Button onClick={handlePrevPage}>Prev</Button>
+        <Button onClick={handleNextPage}>Next</Button>
+      </div>
     </div>
   );
 };
