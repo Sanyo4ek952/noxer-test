@@ -1,6 +1,6 @@
 import cn from "classnames";
 import type { ButtonHTMLAttributes, ReactNode } from "react";
-import "./Button.css";
+import "./button.css";
 
 interface Props extends ButtonHTMLAttributes<HTMLButtonElement> {
   className?: string;
