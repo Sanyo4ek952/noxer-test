@@ -74,7 +74,7 @@ export const Products = () => {
         <SimpleSlider items={allCategories || []} />
       </div>
 
-      <ProductsItems loading={loading} filteredProducts={filteredProducts} />
+      <ProductsItems loading={loading} products={filteredProducts} />
       {pagination && (
         <Pagination
           currentPage={page}

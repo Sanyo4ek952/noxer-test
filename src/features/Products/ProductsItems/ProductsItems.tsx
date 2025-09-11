@@ -4,18 +4,22 @@ import type { Product } from "../../../type/type.ts";
 
 interface Props {
   loading?: boolean;
-  filteredProducts: Product[];
+  products: Product[];
 }
-export const ProductsItems = ({ loading, filteredProducts }: Props) => {
+export const ProductsItems = ({ loading, products }: Props) => {
   return (
     <div className="products">
       {loading ? (
         <div>Loading...</div>
       ) : (
         <div className="products-items">
-          {filteredProducts.map((product) => (
-            <ProductItem key={product.Product_ID} product={product} />
-          ))}
+          {products.length > 0 ? (
+            products.map((product) => (
+              <ProductItem key={product.Product_ID} product={product} />
+            ))
+          ) : (
+            <div>No products found</div>
+          )}
         </div>
       )}
     </div>

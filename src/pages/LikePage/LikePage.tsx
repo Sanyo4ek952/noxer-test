@@ -29,7 +29,7 @@ export const LikePage = () => {
         search={search}
         onSelected={(term) => setSearch(term)}
       />
-      <ProductsItems filteredProducts={filteredProducts} />
+      <ProductsItems products={filteredProducts} />
     </div>
   );
 };
