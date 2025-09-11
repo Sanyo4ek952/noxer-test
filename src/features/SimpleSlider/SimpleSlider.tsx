@@ -10,11 +10,11 @@ export default function SimpleSlider({ items }: Props) {
     dots: false,
     infinite: false,
     speed: 500,
-    slidesToShow: 7,
+    slidesToShow: 4,
     slidesToScroll: 2,
     responsive: [
       {
-        breakpoint: 1200, // до 1200px
+        breakpoint: 2400, // до 1200px
         settings: {
           slidesToShow: 7,
         },
