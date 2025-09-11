@@ -33,7 +33,7 @@ export const ProductItem = ({ product }: Props) => {
         <img
           loading="lazy"
           className={"product-image"}
-          src={images?.[0]?.Image_URL}
+          src={images?.[0]?.Image_URL ? images?.[0]?.Image_URL : "/i.webp"}
           alt=""
         />
       </div>
