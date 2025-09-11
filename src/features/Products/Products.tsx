@@ -13,6 +13,7 @@ import SimpleSlider from "../SimpleSlider/SimpleSlider.tsx";
 import "./products.css";
 import { Pagination } from "../../shared/Pagination/Pagination.tsx";
 import { SearchIcon } from "../../shared/icons/SearchIcon.tsx";
+import { BannerSlider } from "../BannerSlider/BannerSlider.tsx";
 
 export const Products = () => {
   const [products, setProducts] = useState<Product[]>([]);
@@ -70,6 +71,7 @@ export const Products = () => {
           onSelected={(term) => setSearch(term)}
         />
       </div>
+      <BannerSlider />
       <div className="slider">
         <SimpleSlider items={allCategories || []} />
       </div>
