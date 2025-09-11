@@ -1,40 +1,38 @@
-.products-wrapper{
+.products-wrapper {
 }
 .popular-search {
-    margin-bottom: 16px;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-top: 10px;
+  margin-bottom: 16px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
 }
-.search-item{
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    background-color: #fff;
+.search-item {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #fff;
 }
 .popular-search button {
-    cursor: pointer;
-    padding: 4px 8px;
-    border-radius: 4px;
-    transition: background 0.2s;
-
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: background 0.2s;
 }
 
 .popular-search button:hover {
-    background-color: #dcdcdc;
+  background-color: #dcdcdc;
 }
 .search-bar {
-    position: relative;
-    display: flex;
-    align-items: center;
+  position: relative;
+  display: flex;
+  align-items: center;
 }
 
-
 .search-bar .search-icon {
-    position: absolute;
-    left: 22px;
-    pointer-events: none;
-    color: #888;
+  position: absolute;
+  left: 22px;
+  pointer-events: none;
+  color: #888;
 }

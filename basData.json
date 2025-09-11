@@ -757,9 +757,7 @@
           "sort_order": 0
         }
       ],
-      "tags": [
-        "женская одежда\\noversize"
-      ]
+      "tags": ["женская одежда\\noversize"]
     },
     {
       "Created_At": "Mon, 10 Feb 2025 09:19:42 GMT",
@@ -938,10 +936,7 @@
           "sort_order": 1
         }
       ],
-      "tags": [
-        "наушники",
-        "белое"
-      ]
+      "tags": ["наушники", "белое"]
     },
     {
       "Created_At": "Tue, 02 Sep 2025 06:28:28 GMT",
@@ -1405,9 +1400,7 @@
           "sort_order": null
         }
       ],
-      "tags": [
-        "наушники\\nбелое"
-      ]
+      "tags": ["наушники\\nбелое"]
     },
     {
       "Created_At": "Tue, 26 Aug 2025 14:14:48 GMT",
@@ -1565,9 +1558,7 @@
           "name": "1",
           "old_price": null,
           "parameter_json": {
-            "add_images": [
-              "https://noxer-test.ru/webapp/user_files/f.jpg"
-            ]
+            "add_images": ["https://noxer-test.ru/webapp/user_files/f.jpg"]
           },
           "parameter_string": "https://noxer-test.ru/webapp/user_files/Dod.png",
           "price": 234,
@@ -1787,9 +1778,7 @@
       ],
       "reviews": [],
       "reviews_video": [],
-      "tags": [
-        "ycx1620\\nmercedes\\ng-class\\n24x10\\nbrabus"
-      ]
+      "tags": ["ycx1620\\nmercedes\\ng-class\\n24x10\\nbrabus"]
     },
     {
       "Created_At": "Fri, 29 Aug 2025 11:03:04 GMT",
@@ -1861,9 +1850,7 @@
       ],
       "reviews": [],
       "reviews_video": [],
-      "tags": [
-        "mixtan\\naerodisc\\n22\\n5x112\\nforged\\npremium"
-      ]
+      "tags": ["mixtan\\naerodisc\\n22\\n5x112\\nforged\\npremium"]
     },
     {
       "Created_At": "Thu, 30 Jan 2025 15:38:47 GMT",
@@ -2126,9 +2113,7 @@
           "sort_order": null
         }
       ],
-      "tags": [
-        "белое\\nполноразмерные\\nунисекс\\nтест"
-      ]
+      "tags": ["белое\\nполноразмерные\\nунисекс\\nтест"]
     },
     {
       "Created_At": "Wed, 03 Sep 2025 05:43:05 GMT",
@@ -2480,9 +2465,7 @@
           "name": "3свыччс",
           "old_price": 66,
           "parameter_json": {
-            "add_images": [
-              "https://noxer-test.ru/user_files//f.jpg"
-            ]
+            "add_images": ["https://noxer-test.ru/user_files//f.jpg"]
           },
           "parameter_string": "3",
           "price": 2,
@@ -2510,9 +2493,7 @@
           "name": "3свыччс",
           "old_price": 66,
           "parameter_json": {
-            "add_images": [
-              "https://noxer-test.ru/user_files//f.jpg"
-            ]
+            "add_images": ["https://noxer-test.ru/user_files//f.jpg"]
           },
           "parameter_string": "4",
           "price": 2,
@@ -2682,9 +2663,7 @@
       ],
       "reviews": [],
       "reviews_video": [],
-      "tags": [
-        "cadillac\\n24x10\\nдиск\\nкованый\\nновая одежда\\n1"
-      ]
+      "tags": ["cadillac\\n24x10\\nдиск\\nкованый\\nновая одежда\\n1"]
     },
     {
       "Created_At": "Fri, 05 Sep 2025 11:28:13 GMT",
@@ -2824,9 +2803,7 @@
           "sort_order": 0
         }
       ],
-      "tags": [
-        "теги"
-      ]
+      "tags": ["теги"]
     },
     {
       "Created_At": "Wed, 03 Sep 2025 09:59:11 GMT",
@@ -3310,9 +3287,7 @@
           "sort_order": 3
         }
       ],
-      "tags": [
-        "едаn562625укпow   wef  ef mkvmwl"
-      ]
+      "tags": ["едаn562625укпow   wef  ef mkvmwl"]
     }
   ],
   "special_project_parameters": {
