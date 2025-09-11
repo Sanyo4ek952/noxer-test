@@ -1,4 +1,7 @@
 .products-wrapper {
+display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 .popular-search {
   margin-bottom: 16px;

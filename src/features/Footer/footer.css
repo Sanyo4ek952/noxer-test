@@ -8,6 +8,10 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    max-width: 1170px;
+    margin: 0 auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
 }
 
 .footer-link {

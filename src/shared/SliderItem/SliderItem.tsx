@@ -13,14 +13,12 @@ export const SliderItem = ({
 }: Props) => {
   return (
     <div className={className}>
-      <div>
-        {categoryImage ? (
-          <img className={"image"} src={categoryImage} alt="" />
-        ) : (
-          <img className={"image"} src={"public/i.webp"} alt="" />
-        )}
-        <div className={"category-name"}>{categoryName}</div>
-      </div>
+      {categoryImage ? (
+        <img className={"image"} src={categoryImage} alt="" />
+      ) : (
+        <img className={"image"} src={"public/i.webp"} alt="" />
+      )}
+      <div className={"category-name"}>{categoryName}</div>
     </div>
   );
 };
