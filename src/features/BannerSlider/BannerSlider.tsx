@@ -2,8 +2,8 @@ import Slider from "react-slick";
 import "./bannerSlider.css";
 export const BannerSlider = () => {
   const settings = {
-    dots: true,
-    infinite: false,
+    dots: false,
+    infinite: true,
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
