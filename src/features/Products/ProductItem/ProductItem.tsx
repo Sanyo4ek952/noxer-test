@@ -1,7 +1,10 @@
 import type { Product } from "../../../type/type.ts";
 import "./productItem.css";
-import { Button } from "../../Button/Button.tsx";
+import { Button } from "../../../shared/Button/Button.tsx";
 import { LikeButton } from "../../LikeButton/LikeButton.tsx";
+import { useDispatch } from "react-redux";
+import { toggleProduct } from "../../../store/likesSlice.ts";
+
 interface Props {
   product: Product;
 }
@@ -9,6 +12,10 @@ interface Props {
 export const ProductItem = ({ product }: Props) => {
   const { images, parameters, Product_Name, marks } = product;
   const mark = marks.map((mark) => mark.Mark_Name);
+  const dispatch = useDispatch();
+  const setLike = () => {
+    dispatch(toggleProduct(product));
+  };
   return (
     <div className={"product-item"}>
       <div className={"box-sale"}>
@@ -17,7 +24,11 @@ export const ProductItem = ({ product }: Props) => {
         {mark.includes("sale") && <div className={"sale"}>SALE</div>}
         {mark.includes("premium") && <div className={"premium"}>Премиум</div>}
       </div>
-      <LikeButton className={"like-button"} productId={product.Product_ID} />
+      <LikeButton
+        onClick={setLike}
+        className={"like-button"}
+        productId={product.Product_ID}
+      />
       <div className={"product-image-wrapper"}>
         <img
           loading="lazy"

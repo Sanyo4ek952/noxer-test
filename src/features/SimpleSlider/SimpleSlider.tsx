@@ -1,5 +1,5 @@
 import Slider from "react-slick";
-import { SliderItem } from "../SliderItem/SliderItem.tsx";
+import { SliderItem } from "./SliderItem/SliderItem.tsx";
 import type { Category } from "../../type/type.ts";
 import "./simple-slider.css";
 interface Props {

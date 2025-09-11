@@ -1,36 +1,35 @@
-import { useEffect, useState } from "react";
-import { getProducts } from "../../api/products.ts";
-import type { Product } from "../../type/type.ts";
 import { useSelector } from "react-redux";
 import type { RootState } from "../../store/store.ts";
-import { ProductsItems } from "../../shared/Products/ProductsItems/ProductsItems.tsx";
+import { ProductsItems } from "../../features/Products/ProductsItems/ProductsItems.tsx";
+import { useEffect, useState } from "react";
+import "./likePage.css";
+import { Input } from "../../shared/Input/Input.tsx";
 
 export const LikePage = () => {
-  const [products, setProducts] = useState<Product[]>([]);
-  const [loading, setLoading] = useState(false);
-  const allLikes = useSelector((state: RootState) => state.likes);
-
-  useEffect(() => {
-    setLoading(true);
-    getProducts()
-      .then((res) =>
-        setProducts(
-          res.products.filter((product: Product) =>
-            allLikes.likedIds.includes(product.Product_ID)
-          )
-        )
-      )
-      .finally(() => setLoading(false));
-  }, [allLikes]);
-
-  // Фильтруем продукты по лайкам
-  const likedProducts = products.filter((product) =>
-    allLikes.likedIds.includes(product.Product_ID)
+  const ProductLikes = useSelector((state: RootState) => state.likes.products);
+  const [search, setSearch] = useState("");
+  const [debouncedSearch, setDebouncedSearch] = useState("");
+  const filteredProducts = ProductLikes.filter((product) =>
+    product.Product_Name.toLowerCase().includes(debouncedSearch.toLowerCase())
   );
-  console.log(products);
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setDebouncedSearch(search);
+    }, 500);
+
+    return () => clearTimeout(handler);
+  }, [search]);
+
   return (
-    <div>
-      <ProductsItems loading={loading} filteredProducts={likedProducts} />
+    <div className={"like-page-wrapper"}>
+      <Input
+        name="search"
+        placeholder={"Найти товары"}
+        setSearch={setSearch}
+        search={search}
+        onSelected={(term) => setSearch(term)}
+      />
+      <ProductsItems filteredProducts={filteredProducts} />
     </div>
   );
 };

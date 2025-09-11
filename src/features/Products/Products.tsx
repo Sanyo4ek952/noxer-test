@@ -6,13 +6,13 @@ import type {
   Product,
   ProductsOnMAinResponseProps,
 } from "../../type/type.ts";
-import { Input } from "../Input/Input.tsx";
+import { Input } from "../../shared/Input/Input.tsx";
 import { getPopularSearchTerms } from "../../utils/getPopularSearchTerms.ts";
 import { ProductsItems } from "./ProductsItems/ProductsItems.tsx";
 import SimpleSlider from "../SimpleSlider/SimpleSlider.tsx";
 import "./products.css";
-import { Pagination } from "../Pagination/Pagination.tsx";
-import { SearchIcon } from "../icons/SearchIcon.tsx";
+import { Pagination } from "../../shared/Pagination/Pagination.tsx";
+import { SearchIcon } from "../../shared/icons/SearchIcon.tsx";
 
 export const Products = () => {
   const [products, setProducts] = useState<Product[]>([]);

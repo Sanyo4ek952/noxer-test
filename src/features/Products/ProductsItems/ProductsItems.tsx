@@ -3,7 +3,7 @@ import "./productsItems.css";
 import type { Product } from "../../../type/type.ts";
 
 interface Props {
-  loading: boolean;
+  loading?: boolean;
   filteredProducts: Product[];
 }
 export const ProductsItems = ({ loading, filteredProducts }: Props) => {

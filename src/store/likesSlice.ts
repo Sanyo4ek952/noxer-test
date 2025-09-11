@@ -1,11 +1,14 @@
 import { createSlice, type PayloadAction } from "@reduxjs/toolkit";
+import type { Product } from "../type/type.ts";
 
-interface LikesState {
+interface InitialState {
   likedIds: number[];
+  products: Product[];
 }
 
-const initialState: LikesState = {
+const initialState: InitialState = {
   likedIds: [],
+  products: [],
 };
 
 const likesSlice = createSlice({
@@ -23,8 +26,28 @@ const likesSlice = createSlice({
     setLikes(state, action: PayloadAction<number[]>) {
       state.likedIds = action.payload;
     },
+    setProduct(state, action: PayloadAction<Product[]>) {
+      state.products = action.payload;
+    },
+    toggleProduct(state, action: PayloadAction<Product>) {
+      const id = action.payload.Product_ID;
+      const exists = state.products.some(
+        (product) => product.Product_ID === id
+      );
+
+      if (exists) {
+        // Убираем из массива
+        state.products = state.products.filter(
+          (product) => product.Product_ID !== id
+        );
+      } else {
+        // Добавляем в массив
+        state.products.push(action.payload);
+      }
+    },
   },
 });
 
-export const { toggleLike, setLikes } = likesSlice.actions;
+export const { toggleLike, setLikes, setProduct, toggleProduct } =
+  likesSlice.actions;
 export default likesSlice.reducer;

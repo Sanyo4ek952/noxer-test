@@ -1,4 +1,4 @@
-import { Products } from "../shared/Products/Products.tsx";
+import { Products } from "../../features/Products/Products.tsx";
 import "./home.css";
 
 export const Home = () => {

@@ -1,5 +1,5 @@
 import "./App.css";
-import { Home } from "./pages/Home.tsx";
+import { Home } from "./pages/Home/Home.tsx";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Route, Routes } from "react-router-dom";

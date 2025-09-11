@@ -4,7 +4,7 @@ import "./input.css";
 interface Props extends InputHTMLAttributes<HTMLInputElement> {
   search: string;
   setSearch: (search: string) => void;
-  popular: string[];
+  popular?: string[];
   onSelected: (term: string) => void;
 }
 
@@ -29,7 +29,7 @@ export const Input = ({
         {...rest}
       />
 
-      {isFocused && (
+      {isFocused && popular && (
         <div className="bottom-sheet">
           <div className="bottom-sheet-header">
             <span>Часто ищут:</span>
@@ -38,7 +38,7 @@ export const Input = ({
             </button>
           </div>
           <div className="bottom-sheet-content">
-            {popular.map((term) => (
+            {popular?.map((term) => (
               <button
                 key={term}
                 className="bottom-sheet-item"
