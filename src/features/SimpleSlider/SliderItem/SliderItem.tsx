@@ -16,7 +16,7 @@ export const SliderItem = ({
       {categoryImage ? (
         <img className={"image"} src={categoryImage} alt="" />
       ) : (
-        <img className={"image"} src={"public/i.webp"} alt="" />
+        <img className={"image"} src={"/i.webp"} alt="" />
       )}
       <div className={"category-name"}>{categoryName}</div>
     </div>
