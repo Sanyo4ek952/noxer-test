@@ -6,7 +6,7 @@ export const BannerSlider = () => {
     infinite: false,
     speed: 500,
     slidesToShow: 1,
-    slidesToScroll: 2,
+    slidesToScroll: 1,
     arrows: false,
   };
   return (
